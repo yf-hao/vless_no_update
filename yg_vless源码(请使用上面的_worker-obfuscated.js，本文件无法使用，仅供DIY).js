@@ -1,1 +1,2417 @@
-const a0_0x24f303=a0_0x24a3;function a0_0x3273(){const _0x144b51=['\x0a\x0a-\x20name:\x20CF_V11_','\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09\x09\x09</table>\x0a\x0a\x09\x09\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<th>Sing-box订阅链接：</th>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>',',\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V12_','ip7','\x0a\x20\x20uuid:\x20','\x0a\x0a-\x20name:\x20🌍选择代理\x0a\x20\x20type:\x20select\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20负载均衡\x0a\x20\x20\x20\x20-\x20自动选择\x0a\x20\x20\x20\x20-\x20DIRECT\x0a\x20\x20\x20\x20-\x20CF_V8_','&path=%2F%3Fed%3D2560#CF_V10_','udp\x20',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V12_','manual','\x22,\x0a\x09\x09\x09\x22CF_V9_','toLowerCase','url','\x0a\x0aproxy-groups:\x0a-\x20name:\x20负载均衡\x0a\x20\x20type:\x20load-balance\x0a\x20\x20url:\x20http://www.gstatic.com/generate_204\x0a\x20\x20interval:\x20300\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20CF_V1_','d3d3Lg==','653807tfcpmc','124390lYepeZ','5989851DykLXm','\x0a\x20\x20\x20\x20-\x20CF_V11_','/pyip=','2087',',\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V9_','uuid','&path=%2F%3Fed%3D2560#CF_V11_','www.visa.com.tw','</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>传输协议(network)：ws\x20或者\x20websocket</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>伪装域名(host)：','slice','&fp=randomized&type=ws&host=','\x20are\x20not\x20allowed.','/pty','\x22,\x0a\x09\x09\x09\x22CF_V6_','pt9','\x22,\x0a\x09\x09\x09\x09\x22CF_V9_','body','log','\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20false\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20','2052','remoteConnection!.readable\x20abort','\x22,\x0a\x09\x09\x09\x22CF_V10_','&path=%2F%3Fed%3D2560#CF_V8_','search','/ty','814pMNqWy','ip12','\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22direct\x22,\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22direct\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22block\x22,\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22block\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22dns-out\x22,\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22dns\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22auto\x22,\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22urltest\x22,\x0a\x09\x09\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09\x09\x09\x22CF_V8_','getWriter','readableWebSocketStream\x20pipeTo\x20error','\x22,\x0a\x09\x09\x09\x22CF_V4_',',\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V13_','\x22,\x0a\x09\x09\x09\x09\x22CF_V10_','\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20','\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20','\x22,\x0a\x09\x09\x09\x09\x22insecure\x22:\x20false,\x0a\x09\x09\x09\x09\x22utls\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x20\x20\x22fingerprint\x22:\x20\x22chrome\x22\x0a\x09\x09\x09\x09}\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x09\x22',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V9_','values','checkUuidInApi:\x20','closed','ip2','Forbidden','websocket','\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20','</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>路径(path)：/?ed=2560</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>传输安全(TLS)：开启</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>跳过证书验证(allowlnsecure)：false</li>\x0a\x09\x09\x09</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x09\x09\x09<h3>2：聚合通用、Clash-meta、Sing-box订阅链接如下：</h3>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<p>注意：以下订阅链接仅6个TLS端口节点</p>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<th>聚合通用订阅链接：</th>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>','\x0avless://','\x0a\x0a-\x20name:\x20CF_V6_','status','\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22','\x22,\x0a\x09\x09\x09\x20\x20\x22server_port\x22:\x20','error','text/plain;charset=utf-8','\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22server\x22:\x20\x22','\x0a\x0a-\x20name:\x20CF_V10_','&path=%2F%3Fed%3D2560#CF_V13_','\x0a\x20\x20\x20\x20-\x20CF_V10_','/psb','x-forwarded-for','trim','</td>\x09\x0a\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27','write','</td>\x0a\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27','safeCloseWebSocket\x20error','ip10','\x0aport:\x207890\x0aallow-lan:\x20true\x0amode:\x20rule\x0alog-level:\x20info\x0aunified-delay:\x20true\x0aglobal-client-fingerprint:\x20chrome\x0adns:\x0a\x20\x20enable:\x20true\x0a\x20\x20listen:\x20:53\x0a\x20\x20ipv6:\x20true\x0a\x20\x20enhanced-mode:\x20fake-ip\x0a\x20\x20fake-ip-range:\x20198.18.0.1/16\x0a\x20\x20default-nameserver:\x20\x0a\x20\x20\x20\x20-\x20223.5.5.5\x0a\x20\x20\x20\x20-\x20114.114.114.114\x0a\x20\x20\x20\x20-\x208.8.8.8\x0a\x20\x20nameserver:\x0a\x20\x20\x20\x20-\x20https://dns.alidns.com/dns-query\x0a\x20\x20\x20\x20-\x20https://doh.pub/dns-query\x0a\x20\x20fallback:\x0a\x20\x20\x20\x20-\x20https://1.0.0.1/dns-query\x0a\x20\x20\x20\x20-\x20tls://dns.google\x0a\x20\x20fallback-filter:\x0a\x20\x20\x20\x20geoip:\x20true\x0a\x20\x20\x20\x20geoip-code:\x20CN\x0a\x20\x20\x20\x20ipcidr:\x0a\x20\x20\x20\x20\x20\x20-\x20240.0.0.0/4\x0a\x0aproxies:\x0a-\x20name:\x20CF_V8_',',\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V8_','&path=%2F%3Fed%3D2560#CF_V5_','pt1','UDP\x20proxy\x20only\x20enable\x20for\x20DNS\x20which\x20is\x20port\x2053','\x0a\x20\x20\x20\x20-\x20CF_V5_','8880','\x0a\x20\x20\x20\x20-\x20CF_V12_','\x0a\x0a-\x20name:\x20CF_V7_','\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5>客户端参数如下：</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>客户端地址(address)：自定义的域名\x20或者\x20优选域名\x20或者\x20优选IP\x20或者\x20反代IP</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>端口(port)：6个https端口可任意选择(443、8443、2053、2083、2087、2096)，或反代IP对应端口</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>用户ID(uuid)：','pipeTo','\x22,\x0a\x09\x09\x09\x22CF_V12_','\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22','&path=%2F%3Fed%3D2560#CF_V7_','\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09\x09</table>\x09\x0a\x0a\x09\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<th>Clash-meta订阅链接：</th>\x0a\x09\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>','\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09\x09</table>\x0a\x09\x09\x09\x09<br>\x0a\x09\x09\x09\x09<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a</div>\x0a</body>\x0a','Host','pt8','2095','pt6','2083','uuid\x20is\x20not\x20valid','https://www.google.com/search?q=edtunnel','ts.hpc.tw','arrayBuffer','enqueue','&path=%2F%3Fed%3D2560#CF_V9_','\x22,\x0a\x09\x09\x09\x22CF_V2_','\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20false\x0a\x20\x20network:\x20ws\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20','close','\x22\x0a\x09\x09\x09\x09\x20\x20]\x0a\x09\x09\x09\x09},\x0a\x09\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x09\x20\x20\x22uuid\x22:\x20\x22','www.visa.com.mt','64791UlhweM','www.visa.com.sg','headers','lastIndexOf','method','2086','pt10','addressValue\x20is\x20empty,\x20addressType\x20is\x20','test','\x22,\x0a\x09\x09\x09\x22CF_V7_','writable','POST','\x22\x0a\x09\x09},\x0a\x09\x09{\x20\x20\x20\x20\x20\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22','\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5>客户端参数如下：</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>客户端地址(address)：自定义的域名\x20或者\x20优选域名\x20或者\x20优选IP\x20或者\x20反代IP</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>端口(port)：7个http端口可任意选择(80、8080、8880、2052、2082、2086、2095)，或反代IP对应端口</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>用户ID(uuid)：','finally','\x22,\x0a\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x22','\x22,\x0a\x09\x09\x09\x09\x22CF_V12_',':8443?encryption=none&security=tls&type=ws&host=','set','readyState','\x0a\x0a-\x20name:\x20CF_V2_','\x20is\x20not\x20support,\x20command\x2001-tcp,02-udp,03-mux','\x0a\x0a-\x20name:\x20CF_V12_','?encryption=none&security=none&fp=randomized&type=ws&host=','ip11','\x22,\x0a\x09\x09\x09\x22CF_V5_','\x0a\x0a-\x20name:\x20CF_V9_','referer','some','charCodeAt','&path=%2F%3Fed%3D2560#CF_V12_','\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20','?encryption=none&security=tls&sni=','</td>\x09\x0a\x09\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27','</td>\x09\x0a\x09\x09\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27','stack','2082','8443','stringify','ip5','application/json;charset=utf-8','\x0a\x20\x20\x20\x20-\x20CF_V7_','\x22,\x0a\x09\x09\x09\x22CF_V13_','\x0a\x0a-\x20name:\x20CF_V8_','\x22,\x0a\x09\x09\x09\x09\x22CF_V13_',',\x20userID:\x20','remoteConnection!.readable\x20is\x20close\x20with\x20hasIncomingData\x20is\x20','readable','/pcl','cis.visa.com','tcp\x20','readableWebSocketStream\x20is\x20abort','byteLength','446yAAFfm',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V6_','\x0a\x20\x20\x20\x20-\x20CF_V4_','Error:','&sni=','ProxyIP:','www.visaeurope.ch','usa.visa.com','\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22direct\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22direct\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22block\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22block\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22dns-out\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22dns\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22auto\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22urltest\x22,\x0a\x09\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09\x09\x22CF_V1_',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V13_','86c50e3a-5b87-49dd-bd20-03c7f2735e40','vless://',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V10_',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V1_','retry','\x0a\x0a-\x20name:\x20🌍选择代理\x0a\x20\x20type:\x20select\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20负载均衡\x0a\x20\x20\x20\x20-\x20自动选择\x0a\x20\x20\x20\x20-\x20DIRECT\x0a\x20\x20\x20\x20-\x20CF_V1_','value','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x09\x20\x20\x20\x20<hr>\x0a\x09\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>1：CF-workers-vless+ws节点</h3>\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<th>节点特色：</th>\x0a\x09\x09\x09\x09\x09\x09<th>单节点链接如下：</th>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>关闭了TLS加密，无视域名阻断</td>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>',',\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V10_','releaseLock','\x0a\x20\x20port:\x20','\x22\x0a\x09\x09\x20\x20],\x0a\x09\x09\x20\x20\x22url\x22:\x20\x22https://www.gstatic.com/generate_204\x22,\x0a\x09\x09\x20\x20\x22interval\x22:\x20\x221m\x22,\x0a\x09\x09\x20\x20\x22tolerance\x22:\x2050,\x0a\x09\x09\x20\x20\x22interrupt_exist_connections\x22:\x20false\x0a\x09\x09}\x0a\x09\x20\x20],\x0a\x09\x20\x20\x22route\x22:\x20{\x0a\x09\x09\x22rule_set\x22:\x20[\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22remote\x22,\x0a\x09\x09\x09\x22format\x22:\x20\x22binary\x22,\x0a\x09\x09\x09\x22url\x22:\x20\x22https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs\x22,\x0a\x09\x09\x09\x22download_detour\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x22update_interval\x22:\x20\x221d\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22geosite-cn\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22remote\x22,\x0a\x09\x09\x09\x22format\x22:\x20\x22binary\x22,\x0a\x09\x09\x09\x22url\x22:\x20\x22https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs\x22,\x0a\x09\x09\x09\x22download_detour\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x22update_interval\x22:\x20\x221d\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22geoip-cn\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22remote\x22,\x0a\x09\x09\x09\x22format\x22:\x20\x22binary\x22,\x0a\x09\x09\x09\x22url\x22:\x20\x22https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs\x22,\x0a\x09\x09\x09\x22download_detour\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x22update_interval\x22:\x20\x221d\x22\x0a\x09\x09\x20\x20}\x0a\x09\x09],\x0a\x09\x09\x22auto_detect_interface\x22:\x20true,\x0a\x09\x09\x22final\x22:\x20\x22select\x22,\x0a\x09\x09\x22rules\x22:\x20[\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22outbound\x22:\x20\x22dns-out\x22,\x0a\x09\x09\x09\x22protocol\x22:\x20\x22dns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22clash_mode\x22:\x20\x22Direct\x22,\x0a\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22clash_mode\x22:\x20\x22Global\x22,\x0a\x09\x09\x09\x22outbound\x22:\x20\x22select\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geoip-cn\x22,\x0a\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-cn\x22,\x0a\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22ip_is_private\x22:\x20true,\x0a\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x22outbound\x22:\x20\x22select\x22\x0a\x09\x09\x20\x20}\x0a\x09\x09]\x0a\x09\x20\x20},\x0a\x09\x20\x20\x22ntp\x22:\x20{\x0a\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x22server\x22:\x20\x22time.apple.com\x22,\x0a\x09\x09\x22server_port\x22:\x20123,\x0a\x09\x09\x22interval\x22:\x20\x2230m\x22,\x0a\x09\x09\x22detour\x22:\x20\x22direct\x22\x0a\x09\x20\x20}\x0a\x09}','Redirects\x20to\x20','4726528OxsSfP','application/dns-message','users','text/html;charset=utf-8','8080','floor','pt3','qa.visamiddleeast.com','\x0a<body>\x0a<div\x20class=\x22container\x22>\x0a\x20\x20\x20\x20<div\x20class=\x22row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-md-12\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>Cloudflare-workers/pages-vless代理脚本\x20V24.10.18</h1>\x0a\x09\x09\x09<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>',':8880?encryption=none&security=none&type=ws&host=','get','\x0a\x20\x20\x20\x20-\x20CF_V8_','send','\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22server\x22:\x20\x22','\x22,\x0a\x09\x09\x09\x22CF_V8_','myanmar.visa.com',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V8_','ReadableStream\x20was\x20canceled,\x20due\x20to\x20','invalid\x20user','\x22\x0a\x09\x09\x09\x20\x20],\x0a\x09\x09\x09\x20\x20\x22url\x22:\x20\x22https://www.gstatic.com/generate_204\x22,\x0a\x09\x09\x09\x20\x20\x22interval\x22:\x20\x221m\x22,\x0a\x09\x09\x09\x20\x20\x22tolerance\x22:\x2050,\x0a\x09\x09\x09\x20\x20\x22interrupt_exist_connections\x22:\x20false\x0a\x09\x09\x09}\x0a\x09\x09\x20\x20],\x0a\x09\x09\x20\x20\x22route\x22:\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20[\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22tag\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22remote\x22,\x0a\x09\x09\x09\x09\x22format\x22:\x20\x22binary\x22,\x0a\x09\x09\x09\x09\x22url\x22:\x20\x22https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs\x22,\x0a\x09\x09\x09\x09\x22download_detour\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x09\x22update_interval\x22:\x20\x221d\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22tag\x22:\x20\x22geosite-cn\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22remote\x22,\x0a\x09\x09\x09\x09\x22format\x22:\x20\x22binary\x22,\x0a\x09\x09\x09\x09\x22url\x22:\x20\x22https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs\x22,\x0a\x09\x09\x09\x09\x22download_detour\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x09\x22update_interval\x22:\x20\x221d\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22tag\x22:\x20\x22geoip-cn\x22,\x0a\x09\x09\x09\x09\x22type\x22:\x20\x22remote\x22,\x0a\x09\x09\x09\x09\x22format\x22:\x20\x22binary\x22,\x0a\x09\x09\x09\x09\x22url\x22:\x20\x22https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs\x22,\x0a\x09\x09\x09\x09\x22download_detour\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x09\x22update_interval\x22:\x20\x221d\x22\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09],\x0a\x09\x09\x09\x22auto_detect_interface\x22:\x20true,\x0a\x09\x09\x09\x22final\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x22rules\x22:\x20[\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22dns-out\x22,\x0a\x09\x09\x09\x09\x22protocol\x22:\x20\x22dns\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22clash_mode\x22:\x20\x22Direct\x22,\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22clash_mode\x22:\x20\x22Global\x22,\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22select\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22rule_set\x22:\x20\x22geoip-cn\x22,\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-cn\x22,\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22ip_is_private\x22:\x20true,\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22direct\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22select\x22\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09]\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22ntp\x22:\x20{\x0a\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x22server\x22:\x20\x22time.apple.com\x22,\x0a\x09\x09\x09\x22server_port\x22:\x20123,\x0a\x09\x09\x09\x22interval\x22:\x20\x2230m\x22,\x0a\x09\x09\x09\x22detour\x22:\x20\x22direct\x22\x0a\x09\x09\x20\x20}\x0a\x09\x09}','&path=%2F%3Fed%3D2560#CF_V4_','join','\x0a\x20\x20\x20\x20-\x20CF_V6_','\x22,\x0a\x09\x09\x09\x22insecure\x22:\x20false,\x0a\x09\x09\x09\x22utls\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22fingerprint\x22:\x20\x22chrome\x22\x0a\x09\x09\x09}\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x22','Upgrade','17223awjZQR','1.2.3.4','invalid\x20data','www.visaeurope.at','catch','甬哥博客地址：https://ygkkk.blogspot.com\x0a甬哥YouTube频道：https://www.youtube.com/@ygkkk\x0a甬哥TG电报群组：https://t.me/ygkkktg\x0a甬哥TG电报频道：https://t.me/ygkkktgpd\x0a\x0aProxyIP全局运行中：','from','www.visasoutheasteurope.com','{\x0a\x09\x09\x20\x20\x22log\x22:\x20{\x0a\x09\x09\x09\x22disabled\x22:\x20false,\x0a\x09\x09\x09\x22level\x22:\x20\x22info\x22,\x0a\x09\x09\x09\x22timestamp\x22:\x20true\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22experimental\x22:\x20{\x0a\x09\x09\x09\x22clash_api\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22external_controller\x22:\x20\x22127.0.0.1:9090\x22,\x0a\x09\x09\x09\x20\x20\x22external_ui\x22:\x20\x22ui\x22,\x0a\x09\x09\x09\x20\x20\x22external_ui_download_url\x22:\x20\x22\x22,\x0a\x09\x09\x09\x20\x20\x22external_ui_download_detour\x22:\x20\x22\x22,\x0a\x09\x09\x09\x20\x20\x22secret\x22:\x20\x22\x22,\x0a\x09\x09\x09\x20\x20\x22default_mode\x22:\x20\x22Rule\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22cache_file\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22path\x22:\x20\x22cache.db\x22,\x0a\x09\x09\x09\x20\x20\x22store_fakeip\x22:\x20true\x0a\x09\x09\x09}\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22dns\x22:\x20{\x0a\x09\x09\x09\x22servers\x22:\x20[\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22tag\x22:\x20\x22proxydns\x22,\x0a\x09\x09\x09\x09\x22address\x22:\x20\x22tls://8.8.8.8/dns-query\x22,\x0a\x09\x09\x09\x09\x22detour\x22:\x20\x22select\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22tag\x22:\x20\x22localdns\x22,\x0a\x09\x09\x09\x09\x22address\x22:\x20\x22h3://223.5.5.5/dns-query\x22,\x0a\x09\x09\x09\x09\x22detour\x22:\x20\x22direct\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22address\x22:\x20\x22rcode://refused\x22,\x0a\x09\x09\x09\x09\x22tag\x22:\x20\x22block\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22tag\x22:\x20\x22dns_fakeip\x22,\x0a\x09\x09\x09\x09\x22address\x22:\x20\x22fakeip\x22\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09],\x0a\x09\x09\x09\x22rules\x22:\x20[\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22outbound\x22:\x20\x22any\x22,\x0a\x09\x09\x09\x09\x22server\x22:\x20\x22localdns\x22,\x0a\x09\x09\x09\x09\x22disable_cache\x22:\x20true\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22clash_mode\x22:\x20\x22Global\x22,\x0a\x09\x09\x09\x09\x22server\x22:\x20\x22proxydns\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22clash_mode\x22:\x20\x22Direct\x22,\x0a\x09\x09\x09\x09\x22server\x22:\x20\x22localdns\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-cn\x22,\x0a\x09\x09\x09\x09\x22server\x22:\x20\x22localdns\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x09\x22server\x22:\x20\x22proxydns\x22\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20{\x0a\x09\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x09\x22query_type\x22:\x20[\x0a\x09\x09\x09\x09\x20\x20\x22A\x22,\x0a\x09\x09\x09\x09\x20\x20\x22AAAA\x22\x0a\x09\x09\x09\x09],\x0a\x09\x09\x09\x09\x22server\x22:\x20\x22dns_fakeip\x22\x0a\x09\x09\x09\x20\x20}\x0a\x09\x09\x09],\x0a\x09\x09\x09\x22fakeip\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22inet4_range\x22:\x20\x22198.18.0.0/15\x22,\x0a\x09\x09\x09\x20\x20\x22inet6_range\x22:\x20\x22fc00::/18\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22independent_cache\x22:\x20true,\x0a\x09\x09\x09\x22final\x22:\x20\x22proxydns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22inbounds\x22:\x20[\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22tun\x22,\x0a\x09\x09\x09\x20\x20\x22inet4_address\x22:\x20\x22172.19.0.1/30\x22,\x0a\x09\x09\x09\x20\x20\x22inet6_address\x22:\x20\x22fd00::1/126\x22,\x0a\x09\x09\x09\x20\x20\x22auto_route\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22strict_route\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22sniff\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22sniff_override_destination\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22domain_strategy\x22:\x20\x22prefer_ipv4\x22\x0a\x09\x09\x09}\x0a\x09\x09\x20\x20],\x0a\x09\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22select\x22,\x0a\x09\x09\x09\x20\x20\x22type\x22:\x20\x22selector\x22,\x0a\x09\x09\x09\x20\x20\x22default\x22:\x20\x22auto\x22,\x0a\x09\x09\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09\x09\x09\x22auto\x22,\x0a\x09\x09\x09\x09\x22CF_V8_','random','ip9','data','includes','5624052iDBZJv','\x22\x0a\x09\x09\x20\x20]\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22','\x22,\x0a\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x22server_name\x22:\x20\x22','/cl','\x0aport:\x207890\x0aallow-lan:\x20true\x0amode:\x20rule\x0alog-level:\x20info\x0aunified-delay:\x20true\x0aglobal-client-fingerprint:\x20chrome\x0adns:\x0a\x20\x20enable:\x20true\x0a\x20\x20listen:\x20:53\x0a\x20\x20ipv6:\x20true\x0a\x20\x20enhanced-mode:\x20fake-ip\x0a\x20\x20fake-ip-range:\x20198.18.0.1/16\x0a\x20\x20default-nameserver:\x20\x0a\x20\x20\x20\x20-\x20223.5.5.5\x0a\x20\x20\x20\x20-\x20114.114.114.114\x0a\x20\x20\x20\x20-\x208.8.8.8\x0a\x20\x20nameserver:\x0a\x20\x20\x20\x20-\x20https://dns.alidns.com/dns-query\x0a\x20\x20\x20\x20-\x20https://doh.pub/dns-query\x0a\x20\x20fallback:\x0a\x20\x20\x20\x20-\x20https://1.0.0.1/dns-query\x0a\x20\x20\x20\x20-\x20tls://dns.google\x0a\x20\x20fallback-filter:\x0a\x20\x20\x20\x20geoip:\x20true\x0a\x20\x20\x20\x20geoip-code:\x20CN\x0a\x20\x20\x20\x20ipcidr:\x0a\x20\x20\x20\x20\x20\x20-\x20240.0.0.0/4\x0a\x0aproxies:\x0a-\x20name:\x20CF_V1_','replace','</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>路径(path)：/?ed=2560</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>传输安全(TLS)：开启</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>跳过证书验证(allowlnsecure)：false</li>\x0a\x09\x09\x09</ul>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<br>\x09\x0a\x09\x09\x09<br>\x0a\x09\x09\x09<h3>3：聚合通用、Clash-meta、Sing-box订阅链接如下：</h3>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<p>注意：<br>1、默认每个订阅链接包含TLS+非TLS共13个端口节点<br>2、当前workers域名作为订阅链接，需通过代理进行订阅更新<br>3、如使用的客户端不支持分片功能，则TLS节点不可用</p>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<th>聚合通用订阅链接：</th>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>','104VnLgoP','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>1：CF-pages/workers/自定义域-vless+ws+tls节点</h3>\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<th>节点特色：</th>\x0a\x09\x09\x09\x09\x09\x09<th>单节点链接如下：</th>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>启用了TLS加密，<br>如果客户端支持分片(Fragment)功能，可开启，防止域名阻断</td>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>','\x0a\x0a-\x20name:\x20自动选择\x0a\x20\x20type:\x20url-test\x0a\x20\x20url:\x20http://www.gstatic.com/generate_204\x0a\x20\x20interval:\x20300\x0a\x20\x20tolerance:\x2050\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20CF_V1_','push',',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V4_','\x0a\x20\x20\x20\x20-\x20CF_V9_','\x22,\x0a\x09\x09\x09\x09\x22CF_V11_','\x0a\x0a-\x20name:\x20CF_V4_','\x0a\x20\x20\x20\x20-\x20CF_V3_','\x0a\x0arules:\x0a\x20\x20-\x20GEOIP,LAN,DIRECT\x0a\x20\x20-\x20GEOIP,CN,DIRECT\x0a\x20\x20-\x20MATCH,🌍选择代理','&path=%2F%3Fed%3D2560#','https://','addEventListener','ip8','Stringified\x20UUID\x20is\x20invalid','pt5','10uJxSDA','pathname','split','\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22','\x0a\x0a-\x20name:\x20自动选择\x0a\x20\x20type:\x20url-test\x0a\x20\x20url:\x20http://www.gstatic.com/generate_204\x0a\x20\x20interval:\x20300\x0a\x20\x20tolerance:\x2050\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20CF_V8_','getUint16','\x22,\x0a\x09\x09\x09\x22CF_V3_','&path=%2F%3Fed%3D2560#CF_V6_','</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>路径(path)：/?ed=2560</li>\x0a\x09\x09<li>传输安全(TLS)：关闭</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x09\x09\x09<hr>\x0a\x09\x09\x09<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>2：CF-workers-vless+ws+tls节点</h3>\x0a\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<th>节点特色：</th>\x0a\x09\x09\x09\x09\x09\x09<th>单节点链接如下：</th>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>启用了TLS加密，<br>如果客户端支持分片(Fragment)功能，建议开启，防止域名阻断</td>\x0a\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>','/sb','message','webSocket.readyState\x20is\x20not\x20open,\x20maybe\x20close','decode','webSocketServer\x20has\x20error','\x0a\x0a-\x20name:\x20CF_V5_','accept','\x0a\x20\x20\x20\x20-\x20CF_V13_','doh\x20success\x20and\x20dns\x20message\x20length\x20is\x20','\x0a<body>\x0a<div\x20class=\x22container\x22>\x0a\x20\x20\x20\x20<div\x20class=\x22row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-md-12\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>Cloudflare-workers/pages-vless代理脚本\x20V24.10.18</h1>\x0a\x09\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>','443','2053','\x0a<br>\x0a<br>\x0a','toString','\x0a\x0a-\x20name:\x20CF_V13_','africa.visa.com'];a0_0x3273=function(){return _0x144b51;};return a0_0x3273();}(function(_0x233fd4,_0xd6cbc5){const _0x349e44=a0_0x24a3,_0x105ddd=_0x233fd4();while(!![]){try{const _0x189dd8=-parseInt(_0x349e44(0x1db))/0x1+parseInt(_0x349e44(0x210))/0x2*(parseInt(_0x349e44(0x240))/0x3)+-parseInt(_0x349e44(0x227))/0x4+-parseInt(_0x349e44(0x264))/0x5*(-parseInt(_0x349e44(0x24d))/0x6)+parseInt(_0x349e44(0x28c))/0x7*(-parseInt(_0x349e44(0x254))/0x8)+-parseInt(_0x349e44(0x28e))/0x9+-parseInt(_0x349e44(0x28d))/0xa*(-parseInt(_0x349e44(0x2a7))/0xb);if(_0x189dd8===_0xd6cbc5)break;else _0x105ddd['push'](_0x105ddd['shift']());}catch(_0x5dd53e){_0x105ddd['push'](_0x105ddd['shift']());}}}(a0_0x3273,0xe7bf6));import{connect}from'cloudflare:sockets';let userID=a0_0x24f303(0x21a);const proxyIPs=[a0_0x24f303(0x1d2)],cn_hostnames=[''];let CDNIP='www.visa.com.sg',IP1='www.visa.com',IP2=a0_0x24f303(0x20c),IP3=a0_0x24f303(0x27c),IP4=a0_0x24f303(0x1dc),IP5=a0_0x24f303(0x243),IP6=a0_0x24f303(0x1da),IP7=a0_0x24f303(0x22e),IP8=a0_0x24f303(0x217),IP9=a0_0x24f303(0x236),IP10=a0_0x24f303(0x295),IP11=a0_0x24f303(0x216),IP12='www.visa.com.br',IP13=a0_0x24f303(0x247),PT1='80',PT2=a0_0x24f303(0x22b),PT3=a0_0x24f303(0x1c1),PT4=a0_0x24f303(0x2a1),PT5=a0_0x24f303(0x1ff),PT6=a0_0x24f303(0x1e0),PT7=a0_0x24f303(0x1cd),PT8=a0_0x24f303(0x277),PT9=a0_0x24f303(0x200),PT10=a0_0x24f303(0x278),PT11=a0_0x24f303(0x1cf),PT12=a0_0x24f303(0x291),PT13='2096',proxyIP=proxyIPs[Math[a0_0x24f303(0x22c)](Math[a0_0x24f303(0x249)]()*proxyIPs['length'])],proxyPort=proxyIP['includes'](':')?proxyIP[a0_0x24f303(0x266)](':')[0x1]:a0_0x24f303(0x277);if(!isValidUUID(userID))throw new Error(a0_0x24f303(0x1d0));export default{async 'fetch'(_0x5bd6ea,_0x581a22,_0x51de31){const _0x46fcad=a0_0x24f303;try{const {proxyip:_0x5ed01f}=_0x581a22;userID=_0x581a22[_0x46fcad(0x293)]||userID;if(_0x5ed01f){if(_0x5ed01f[_0x46fcad(0x24c)](']:')){let _0x32cec4=_0x5ed01f[_0x46fcad(0x1de)](':');proxyPort=_0x5ed01f[_0x46fcad(0x297)](_0x32cec4+0x1),proxyIP=_0x5ed01f[_0x46fcad(0x297)](0x0,_0x32cec4);}else!_0x5ed01f[_0x46fcad(0x24c)](']:')&&!_0x5ed01f[_0x46fcad(0x24c)](']')?[proxyIP,proxyPort=_0x46fcad(0x277)]=_0x5ed01f[_0x46fcad(0x266)](':'):(proxyPort=_0x46fcad(0x277),proxyIP=_0x5ed01f);}else{if(proxyIP[_0x46fcad(0x24c)](']:')){let _0x3ecffa=proxyIP[_0x46fcad(0x1de)](':');proxyPort=proxyIP['slice'](_0x3ecffa+0x1),proxyIP=proxyIP['slice'](0x0,_0x3ecffa);}else!proxyIP[_0x46fcad(0x24c)](']:')&&!proxyIP[_0x46fcad(0x24c)](']')?[proxyIP,proxyPort=_0x46fcad(0x277)]=proxyIP['split'](':'):proxyPort='443';}console[_0x46fcad(0x29f)](_0x46fcad(0x215),proxyIP),console['log']('ProxyPort:',proxyPort),CDNIP=_0x581a22['cdnip']||CDNIP,IP1=_0x581a22['ip1']||IP1,IP2=_0x581a22[_0x46fcad(0x2b6)]||IP2,IP3=_0x581a22['ip3']||IP3,IP4=_0x581a22['ip4']||IP4,IP5=_0x581a22[_0x46fcad(0x202)]||IP5,IP6=_0x581a22['ip6']||IP6,IP7=_0x581a22[_0x46fcad(0x280)]||IP7,IP8=_0x581a22[_0x46fcad(0x261)]||IP8,IP9=_0x581a22[_0x46fcad(0x24a)]||IP9,IP10=_0x581a22[_0x46fcad(0x1ba)]||IP10,IP11=_0x581a22[_0x46fcad(0x1f3)]||IP11,IP12=_0x581a22[_0x46fcad(0x2a8)]||IP12,IP13=_0x581a22['ip13']||IP13,PT1=_0x581a22[_0x46fcad(0x1be)]||PT1,PT2=_0x581a22['pt2']||PT2,PT3=_0x581a22[_0x46fcad(0x22d)]||PT3,PT4=_0x581a22['pt4']||PT4,PT5=_0x581a22[_0x46fcad(0x263)]||PT5,PT6=_0x581a22[_0x46fcad(0x1ce)]||PT6,PT7=_0x581a22['pt7']||PT7,PT8=_0x581a22[_0x46fcad(0x1cc)]||PT8,PT9=_0x581a22[_0x46fcad(0x29c)]||PT9,PT10=_0x581a22[_0x46fcad(0x1e1)]||PT10,PT11=_0x581a22['pt11']||PT11,PT12=_0x581a22['pt12']||PT12,PT13=_0x581a22['pt13']||PT13;const _0x24f6b2=_0x5bd6ea[_0x46fcad(0x1dd)][_0x46fcad(0x231)](_0x46fcad(0x23f)),_0x4c2419=new URL(_0x5bd6ea['url']);if(!_0x24f6b2||_0x24f6b2!==_0x46fcad(0x2b8)){const _0x40ae9f=new URL(_0x5bd6ea[_0x46fcad(0x289)]);switch(_0x40ae9f[_0x46fcad(0x265)]){case'/'+userID:{const _0x1a86ec=getVLESSConfig(userID,_0x5bd6ea[_0x46fcad(0x1dd)][_0x46fcad(0x231)](_0x46fcad(0x1cb)));return new Response(''+_0x1a86ec,{'status':0xc8,'headers':{'Content-Type':_0x46fcad(0x22a)}});}case'/'+userID+_0x46fcad(0x2a6):{const _0x4c7395=gettyConfig(userID,_0x5bd6ea[_0x46fcad(0x1dd)]['get'](_0x46fcad(0x1cb)));return new Response(''+_0x4c7395,{'status':0xc8,'headers':{'Content-Type':_0x46fcad(0x1ae)}});}case'/'+userID+'/cl':{const _0x17cd21=getclConfig(userID,_0x5bd6ea['headers'][_0x46fcad(0x231)]('Host'));return new Response(''+_0x17cd21,{'status':0xc8,'headers':{'Content-Type':_0x46fcad(0x1ae)}});}case'/'+userID+_0x46fcad(0x26d):{const _0x2ff7de=getsbConfig(userID,_0x5bd6ea[_0x46fcad(0x1dd)][_0x46fcad(0x231)](_0x46fcad(0x1cb)));return new Response(''+_0x2ff7de,{'status':0xc8,'headers':{'Content-Type':'application/json;charset=utf-8'}});}case'/'+userID+'/pty':{const _0x58855b=getptyConfig(userID,_0x5bd6ea[_0x46fcad(0x1dd)][_0x46fcad(0x231)]('Host'));return new Response(''+_0x58855b,{'status':0xc8,'headers':{'Content-Type':_0x46fcad(0x1ae)}});}case'/'+userID+_0x46fcad(0x20b):{const _0x1d5943=getpclConfig(userID,_0x5bd6ea[_0x46fcad(0x1dd)]['get'](_0x46fcad(0x1cb)));return new Response(''+_0x1d5943,{'status':0xc8,'headers':{'Content-Type':'text/plain;charset=utf-8'}});}case'/'+userID+_0x46fcad(0x1b3):{const _0x3cec6f=getpsbConfig(userID,_0x5bd6ea[_0x46fcad(0x1dd)][_0x46fcad(0x231)](_0x46fcad(0x1cb)));return new Response(''+_0x3cec6f,{'status':0xc8,'headers':{'Content-Type':_0x46fcad(0x203)}});}default:if(cn_hostnames[_0x46fcad(0x24c)](''))return new Response(JSON[_0x46fcad(0x201)](_0x5bd6ea['cf'],null,0x4),{'status':0xc8,'headers':{'Content-Type':'application/json;charset=utf-8'}});const _0x38aa6b=cn_hostnames[Math['floor'](Math[_0x46fcad(0x249)]()*cn_hostnames['length'])],_0x53bfee=new Headers(_0x5bd6ea[_0x46fcad(0x1dd)]);_0x53bfee[_0x46fcad(0x1ed)]('cf-connecting-ip',_0x46fcad(0x241)),_0x53bfee['set'](_0x46fcad(0x1b4),_0x46fcad(0x241)),_0x53bfee[_0x46fcad(0x1ed)]('x-real-ip',_0x46fcad(0x241)),_0x53bfee[_0x46fcad(0x1ed)](_0x46fcad(0x1f6),_0x46fcad(0x1d1));const _0x39282d='https://'+_0x38aa6b+_0x40ae9f[_0x46fcad(0x265)]+_0x40ae9f[_0x46fcad(0x2a5)];let _0x246821=new Request(_0x39282d,{'method':_0x5bd6ea[_0x46fcad(0x1df)],'headers':_0x53bfee,'body':_0x5bd6ea[_0x46fcad(0x29e)],'redirect':_0x46fcad(0x286)});const _0x238fa8=await fetch(_0x246821,{'redirect':_0x46fcad(0x286)});if([0x12d,0x12e]['includes'](_0x238fa8[_0x46fcad(0x1aa)]))return new Response(_0x46fcad(0x226)+_0x38aa6b+_0x46fcad(0x299),{'status':0x193,'statusText':_0x46fcad(0x2b7)});return _0x238fa8;}}else{if(_0x4c2419['pathname']['includes'](_0x46fcad(0x290))){const _0xf2e3a2=_0x4c2419[_0x46fcad(0x265)][_0x46fcad(0x266)]('=')[0x1];if(isValidIP(_0xf2e3a2)){proxyIP=_0xf2e3a2;if(proxyIP[_0x46fcad(0x24c)](']:')){let _0x5b965c=proxyIP[_0x46fcad(0x1de)](':');proxyPort=proxyIP[_0x46fcad(0x297)](_0x5b965c+0x1),proxyIP=proxyIP[_0x46fcad(0x297)](0x0,_0x5b965c);}else!proxyIP[_0x46fcad(0x24c)](']:')&&!proxyIP[_0x46fcad(0x24c)](']')?[proxyIP,proxyPort='443']=proxyIP[_0x46fcad(0x266)](':'):proxyPort=_0x46fcad(0x277);}}return await vlessOverWSHandler(_0x5bd6ea);}}catch(_0x9ba141){let _0x3f0dec=_0x9ba141;return new Response(_0x3f0dec['toString']());}}};function isValidIP(_0x25b2fa){const _0x5232b6=a0_0x24f303;var _0x1fad02=/^[\s\S]*$/;return _0x1fad02[_0x5232b6(0x1e3)](_0x25b2fa);}async function vlessOverWSHandler(_0x5959e6){const _0x4551b9=a0_0x24f303,_0x5b6c31=new WebSocketPair(),[_0x6ed96f,_0x1909c2]=Object[_0x4551b9(0x2b3)](_0x5b6c31);_0x1909c2[_0x4551b9(0x273)]();let _0x32c5f9='',_0x408f73='';const _0x107d54=(_0x4e6b95,_0x109788)=>{console['log']('['+_0x32c5f9+':'+_0x408f73+']\x20'+_0x4e6b95,_0x109788||'');},_0x453249=_0x5959e6['headers'][_0x4551b9(0x231)]('sec-websocket-protocol')||'',_0x2bdf68=makeReadableWebSocketStream(_0x1909c2,_0x453249,_0x107d54);let _0x38ff2c={'value':null},_0x45d012=null,_0xe4556e=![];return _0x2bdf68['pipeTo'](new WritableStream({async 'write'(_0x1f6092,_0x83ae99){const _0xb084ac=_0x4551b9;if(_0xe4556e&&_0x45d012)return _0x45d012(_0x1f6092);if(_0x38ff2c[_0xb084ac(0x220)]){const _0x4ef2da=_0x38ff2c[_0xb084ac(0x220)][_0xb084ac(0x1e5)][_0xb084ac(0x2aa)]();await _0x4ef2da[_0xb084ac(0x1b7)](_0x1f6092),_0x4ef2da[_0xb084ac(0x223)]();return;}const {hasError:_0x1b5d27,message:_0x1745d3,portRemote:portRemote=0x1bb,addressRemote:addressRemote='',rawDataIndex:_0x591980,vlessVersion:vlessVersion=new Uint8Array([0x0,0x0]),isUDP:_0x2cf7bb}=await processVlessHeader(_0x1f6092,userID);_0x32c5f9=addressRemote,_0x408f73=portRemote+'--'+Math[_0xb084ac(0x249)]()+'\x20'+(_0x2cf7bb?_0xb084ac(0x284):_0xb084ac(0x20d))+'\x20';if(_0x1b5d27){throw new Error(_0x1745d3);return;}if(_0x2cf7bb){if(portRemote===0x35)_0xe4556e=!![];else{throw new Error(_0xb084ac(0x1bf));return;}}const _0x10dee3=new Uint8Array([vlessVersion[0x0],0x0]),_0x10f50f=_0x1f6092['slice'](_0x591980);if(_0xe4556e){const {write:_0x38d719}=await handleUDPOutBound(_0x1909c2,_0x10dee3,_0x107d54);_0x45d012=_0x38d719,_0x45d012(_0x10f50f);return;}handleTCPOutBound(_0x38ff2c,addressRemote,portRemote,_0x10f50f,_0x1909c2,_0x10dee3,_0x107d54);},'close'(){_0x107d54('readableWebSocketStream\x20is\x20close');},'abort'(_0x51c894){const _0x2ba6a2=_0x4551b9;_0x107d54(_0x2ba6a2(0x20e),JSON[_0x2ba6a2(0x201)](_0x51c894));}}))[_0x4551b9(0x244)](_0x5ad40a=>{const _0x28fcd0=_0x4551b9;_0x107d54(_0x28fcd0(0x2ab),_0x5ad40a);}),new Response(null,{'status':0x65,'webSocket':_0x6ed96f});}async function checkUuidInApiResponse(_0x24e87a){const _0x7154cc=a0_0x24f303;try{const _0x31106d=await getApiResponse();if(!_0x31106d)return![];const _0x120273=_0x31106d[_0x7154cc(0x229)][_0x7154cc(0x1f7)](_0x49d8bf=>_0x49d8bf[_0x7154cc(0x293)]===_0x24e87a);return _0x120273;}catch(_0x3ae481){return console['error'](_0x7154cc(0x213),_0x3ae481),![];}}async function handleTCPOutBound(_0x711975,_0x28cf64,_0x3b182f,_0x2f91f5,_0x2a0bb3,_0x42e289,_0x4f7ed0){async function _0x45e885(_0x324e0e,_0x2f3db6){const _0x324073=a0_0x24a3;if(/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/[_0x324073(0x1e3)](_0x324e0e))_0x324e0e=''+atob(_0x324073(0x28b))+_0x324e0e+atob('LnNzbGlwLmlv');const _0x4c760d=connect({'hostname':_0x324e0e,'port':_0x2f3db6});_0x711975[_0x324073(0x220)]=_0x4c760d,_0x4f7ed0('connected\x20to\x20'+_0x324e0e+':'+_0x2f3db6);const _0x341b7a=_0x4c760d[_0x324073(0x1e5)][_0x324073(0x2aa)]();return await _0x341b7a[_0x324073(0x1b7)](_0x2f91f5),_0x341b7a[_0x324073(0x223)](),_0x4c760d;}async function _0x516029(){const _0x537e04=a0_0x24a3,_0x162021=await _0x45e885(proxyIP||_0x28cf64,proxyPort||_0x3b182f);_0x162021[_0x537e04(0x2b5)][_0x537e04(0x244)](_0x95b7c6=>{console['log']('retry\x20tcpSocket\x20closed\x20error',_0x95b7c6);})[_0x537e04(0x1e9)](()=>{safeCloseWebSocket(_0x2a0bb3);}),remoteSocketToWS(_0x162021,_0x2a0bb3,_0x42e289,null,_0x4f7ed0);}const _0x107073=await _0x45e885(_0x28cf64,_0x3b182f);remoteSocketToWS(_0x107073,_0x2a0bb3,_0x42e289,_0x516029,_0x4f7ed0);}function makeReadableWebSocketStream(_0x218be4,_0x49d044,_0x5554e6){let _0x490693=![];const _0x61c41b=new ReadableStream({'start'(_0x56fff7){const _0x519ac9=a0_0x24a3;_0x218be4['addEventListener'](_0x519ac9(0x26e),_0x135c6e=>{const _0x4b6be7=_0x519ac9;if(_0x490693)return;const _0x461a94=_0x135c6e[_0x4b6be7(0x24b)];_0x56fff7[_0x4b6be7(0x1d4)](_0x461a94);}),_0x218be4[_0x519ac9(0x260)]('close',()=>{const _0x2d828c=_0x519ac9;safeCloseWebSocket(_0x218be4);if(_0x490693)return;_0x56fff7[_0x2d828c(0x1d8)]();}),_0x218be4[_0x519ac9(0x260)](_0x519ac9(0x1ad),_0x51ca37=>{const _0x39e3a4=_0x519ac9;_0x5554e6(_0x39e3a4(0x271)),_0x56fff7[_0x39e3a4(0x1ad)](_0x51ca37);});const {earlyData:_0x2ef8ae,error:_0x54cd6b}=base64ToArrayBuffer(_0x49d044);if(_0x54cd6b)_0x56fff7[_0x519ac9(0x1ad)](_0x54cd6b);else _0x2ef8ae&&_0x56fff7['enqueue'](_0x2ef8ae);},'pull'(_0x5f4658){},'cancel'(_0x416dd8){const _0x51ea48=a0_0x24a3;if(_0x490693)return;_0x5554e6(_0x51ea48(0x238)+_0x416dd8),_0x490693=!![],safeCloseWebSocket(_0x218be4);}});return _0x61c41b;}async function processVlessHeader(_0x28ebf1,_0x2f5ac4){const _0x4614f4=a0_0x24f303;if(_0x28ebf1[_0x4614f4(0x20f)]<0x18)return{'hasError':!![],'message':_0x4614f4(0x242)};const _0x1e14b1=new Uint8Array(_0x28ebf1['slice'](0x0,0x1));let _0x275f70=![],_0x1093fe=![];const _0x46e695=new Uint8Array(_0x28ebf1[_0x4614f4(0x297)](0x1,0x11)),_0xa6947b=stringify(_0x46e695),_0x155692=_0x2f5ac4['includes'](',')?_0x2f5ac4[_0x4614f4(0x266)](','):[_0x2f5ac4],_0x23e307=await checkUuidInApiResponse(_0xa6947b);_0x275f70=_0x155692[_0x4614f4(0x1f7)](_0x5efa92=>_0x23e307||_0xa6947b===_0x5efa92[_0x4614f4(0x1b5)]()),console[_0x4614f4(0x29f)](_0x4614f4(0x2b4)+await checkUuidInApiResponse(_0xa6947b)+_0x4614f4(0x208)+_0xa6947b);if(!_0x275f70)return{'hasError':!![],'message':_0x4614f4(0x239)};const _0x15b204=new Uint8Array(_0x28ebf1[_0x4614f4(0x297)](0x11,0x12))[0x0],_0x8e1d57=new Uint8Array(_0x28ebf1[_0x4614f4(0x297)](0x12+_0x15b204,0x12+_0x15b204+0x1))[0x0];if(_0x8e1d57===0x1){}else{if(_0x8e1d57===0x2)_0x1093fe=!![];else return{'hasError':!![],'message':'command\x20'+_0x8e1d57+_0x4614f4(0x1f0)};}const _0x49ed28=0x12+_0x15b204+0x1,_0x530585=_0x28ebf1[_0x4614f4(0x297)](_0x49ed28,_0x49ed28+0x2),_0x503945=new DataView(_0x530585)[_0x4614f4(0x269)](0x0);let _0x452c4b=_0x49ed28+0x2;const _0x20054e=new Uint8Array(_0x28ebf1[_0x4614f4(0x297)](_0x452c4b,_0x452c4b+0x1)),_0x4e3f85=_0x20054e[0x0];let _0x5bc8a0=0x0,_0x1a2bfe=_0x452c4b+0x1,_0x29e686='';switch(_0x4e3f85){case 0x1:_0x5bc8a0=0x4,_0x29e686=new Uint8Array(_0x28ebf1['slice'](_0x1a2bfe,_0x1a2bfe+_0x5bc8a0))[_0x4614f4(0x23c)]('.');break;case 0x2:_0x5bc8a0=new Uint8Array(_0x28ebf1['slice'](_0x1a2bfe,_0x1a2bfe+0x1))[0x0],_0x1a2bfe+=0x1,_0x29e686=new TextDecoder()[_0x4614f4(0x270)](_0x28ebf1['slice'](_0x1a2bfe,_0x1a2bfe+_0x5bc8a0));break;case 0x3:_0x5bc8a0=0x10;const _0x28fdcd=new DataView(_0x28ebf1[_0x4614f4(0x297)](_0x1a2bfe,_0x1a2bfe+_0x5bc8a0)),_0x2ad7c2=[];for(let _0x1d3b2e=0x0;_0x1d3b2e<0x8;_0x1d3b2e++){_0x2ad7c2['push'](_0x28fdcd[_0x4614f4(0x269)](_0x1d3b2e*0x2)[_0x4614f4(0x27a)](0x10));}_0x29e686=_0x2ad7c2['join'](':');break;default:return{'hasError':!![],'message':'invild\x20\x20addressType\x20is\x20'+_0x4e3f85};}if(!_0x29e686)return{'hasError':!![],'message':_0x4614f4(0x1e2)+_0x4e3f85};return{'hasError':![],'addressRemote':_0x29e686,'addressType':_0x4e3f85,'portRemote':_0x503945,'rawDataIndex':_0x1a2bfe+_0x5bc8a0,'vlessVersion':_0x1e14b1,'isUDP':_0x1093fe};}async function remoteSocketToWS(_0x20d9c6,_0x59aeb1,_0x4a832b,_0x504ce1,_0x478563){const _0x2f4f95=a0_0x24f303;let _0x5d03ec=0x0,_0x58f418=[],_0x134f50=_0x4a832b,_0x5dd6c1=![];await _0x20d9c6['readable'][_0x2f4f95(0x1c5)](new WritableStream({'start'(){},async 'write'(_0x1e9b0a,_0x5d36f2){const _0x1dc8e0=_0x2f4f95;_0x5dd6c1=!![],_0x59aeb1[_0x1dc8e0(0x1ee)]!==WS_READY_STATE_OPEN&&_0x5d36f2['error'](_0x1dc8e0(0x26f)),_0x134f50?(_0x59aeb1[_0x1dc8e0(0x233)](await new Blob([_0x134f50,_0x1e9b0a])[_0x1dc8e0(0x1d3)]()),_0x134f50=null):_0x59aeb1['send'](_0x1e9b0a);},'close'(){const _0x24b20a=_0x2f4f95;_0x478563(_0x24b20a(0x209)+_0x5dd6c1);},'abort'(_0x3930bb){const _0x4e7dec=_0x2f4f95;console['error'](_0x4e7dec(0x2a2),_0x3930bb);}}))[_0x2f4f95(0x244)](_0x117d54=>{const _0x414914=_0x2f4f95;console[_0x414914(0x1ad)]('remoteSocketToWS\x20has\x20exception\x20',_0x117d54[_0x414914(0x1fe)]||_0x117d54),safeCloseWebSocket(_0x59aeb1);}),_0x5dd6c1===![]&&_0x504ce1&&(_0x478563(_0x2f4f95(0x21e)),_0x504ce1());}function base64ToArrayBuffer(_0x28b98f){const _0x1abe24=a0_0x24f303;if(!_0x28b98f)return{'error':null};try{_0x28b98f=_0x28b98f[_0x1abe24(0x252)](/-/g,'+')[_0x1abe24(0x252)](/_/g,'/');const _0x2ddcb0=atob(_0x28b98f),_0x43786b=Uint8Array[_0x1abe24(0x246)](_0x2ddcb0,_0xb615bc=>_0xb615bc[_0x1abe24(0x1f8)](0x0));return{'earlyData':_0x43786b['buffer'],'error':null};}catch(_0x4cbaa6){return{'error':_0x4cbaa6};}}function isValidUUID(_0x3411d0){const _0x1c01e4=/^[0-9a-f]{8}-[0-9a-f]{4}-[4][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;return _0x1c01e4['test'](_0x3411d0);}const WS_READY_STATE_OPEN=0x1,WS_READY_STATE_CLOSING=0x2;function safeCloseWebSocket(_0x1fac27){const _0x28698d=a0_0x24f303;try{(_0x1fac27[_0x28698d(0x1ee)]===WS_READY_STATE_OPEN||_0x1fac27['readyState']===WS_READY_STATE_CLOSING)&&_0x1fac27[_0x28698d(0x1d8)]();}catch(_0xc80fea){console[_0x28698d(0x1ad)](_0x28698d(0x1b9),_0xc80fea);}}function a0_0x24a3(_0x59be70,_0x5ddcda){const _0x3273fa=a0_0x3273();return a0_0x24a3=function(_0x24a38f,_0x1ccdd0){_0x24a38f=_0x24a38f-0x1a7;let _0x1d9984=_0x3273fa[_0x24a38f];return _0x1d9984;},a0_0x24a3(_0x59be70,_0x5ddcda);}const byteToHex=[];for(let i=0x0;i<0x100;++i){byteToHex[a0_0x24f303(0x257)]((i+0x100)['toString'](0x10)[a0_0x24f303(0x297)](0x1));}function unsafeStringify(_0x23e1bf,_0x1f3403=0x0){const _0x4d8d87=a0_0x24f303;return(byteToHex[_0x23e1bf[_0x1f3403+0x0]]+byteToHex[_0x23e1bf[_0x1f3403+0x1]]+byteToHex[_0x23e1bf[_0x1f3403+0x2]]+byteToHex[_0x23e1bf[_0x1f3403+0x3]]+'-'+byteToHex[_0x23e1bf[_0x1f3403+0x4]]+byteToHex[_0x23e1bf[_0x1f3403+0x5]]+'-'+byteToHex[_0x23e1bf[_0x1f3403+0x6]]+byteToHex[_0x23e1bf[_0x1f3403+0x7]]+'-'+byteToHex[_0x23e1bf[_0x1f3403+0x8]]+byteToHex[_0x23e1bf[_0x1f3403+0x9]]+'-'+byteToHex[_0x23e1bf[_0x1f3403+0xa]]+byteToHex[_0x23e1bf[_0x1f3403+0xb]]+byteToHex[_0x23e1bf[_0x1f3403+0xc]]+byteToHex[_0x23e1bf[_0x1f3403+0xd]]+byteToHex[_0x23e1bf[_0x1f3403+0xe]]+byteToHex[_0x23e1bf[_0x1f3403+0xf]])[_0x4d8d87(0x288)]();}function stringify(_0x503a9e,_0x3eefb0=0x0){const _0x5d555a=a0_0x24f303,_0x86f3f4=unsafeStringify(_0x503a9e,_0x3eefb0);if(!isValidUUID(_0x86f3f4))throw TypeError(_0x5d555a(0x262));return _0x86f3f4;}async function handleUDPOutBound(_0x4adff7,_0x32c6bb,_0x222ed9){const _0x5821ba=a0_0x24f303;let _0x34c04e=![];const _0x976c3c=new TransformStream({'start'(_0x26597b){},'transform'(_0x520081,_0x4c6f2b){const _0x223549=a0_0x24a3;for(let _0x1c128a=0x0;_0x1c128a<_0x520081[_0x223549(0x20f)];){const _0x6b77dd=_0x520081[_0x223549(0x297)](_0x1c128a,_0x1c128a+0x2),_0x499f27=new DataView(_0x6b77dd)[_0x223549(0x269)](0x0),_0x2dca7f=new Uint8Array(_0x520081[_0x223549(0x297)](_0x1c128a+0x2,_0x1c128a+0x2+_0x499f27));_0x1c128a=_0x1c128a+0x2+_0x499f27,_0x4c6f2b[_0x223549(0x1d4)](_0x2dca7f);}},'flush'(_0x4be866){}});_0x976c3c[_0x5821ba(0x20a)]['pipeTo'](new WritableStream({async 'write'(_0x282358){const _0x56ecd6=_0x5821ba,_0x2dde97=await fetch(dohURL,{'method':_0x56ecd6(0x1e6),'headers':{'content-type':_0x56ecd6(0x228)},'body':_0x282358}),_0x551d79=await _0x2dde97[_0x56ecd6(0x1d3)](),_0x2225a4=_0x551d79['byteLength'],_0x3ec2cb=new Uint8Array([_0x2225a4>>0x8&0xff,_0x2225a4&0xff]);_0x4adff7['readyState']===WS_READY_STATE_OPEN&&(_0x222ed9(_0x56ecd6(0x275)+_0x2225a4),_0x34c04e?_0x4adff7[_0x56ecd6(0x233)](await new Blob([_0x3ec2cb,_0x551d79])[_0x56ecd6(0x1d3)]()):(_0x4adff7[_0x56ecd6(0x233)](await new Blob([_0x32c6bb,_0x3ec2cb,_0x551d79])[_0x56ecd6(0x1d3)]()),_0x34c04e=!![]));}}))[_0x5821ba(0x244)](_0x30873e=>{_0x222ed9('dns\x20udp\x20has\x20error'+_0x30873e);});const _0x13a9d4=_0x976c3c['writable'][_0x5821ba(0x2aa)]();return{'write'(_0x1c8078){const _0x20c504=_0x5821ba;_0x13a9d4[_0x20c504(0x1b7)](_0x1c8078);}};}function getVLESSConfig(_0x437a41,_0x2e5cd1){const _0x356d02=a0_0x24f303,_0x410cf6=_0x356d02(0x21b)+_0x437a41+'@'+CDNIP+_0x356d02(0x230)+_0x2e5cd1+_0x356d02(0x25e)+_0x2e5cd1,_0x579e5f='vless://'+_0x437a41+'@'+CDNIP+_0x356d02(0x1ec)+_0x2e5cd1+_0x356d02(0x214)+_0x2e5cd1+'&fp=random&path=%2F%3Fed%3D2560#'+_0x2e5cd1,_0x2c8251=_0x356d02(0x245)+proxyIP,_0x42b387=_0x356d02(0x25f)+_0x2e5cd1+'/'+_0x437a41+'/ty',_0x2ad40c='https://'+_0x2e5cd1+'/'+_0x437a41+_0x356d02(0x250),_0x34f59b=_0x356d02(0x25f)+_0x2e5cd1+'/'+_0x437a41+_0x356d02(0x26d),_0x26e499=_0x356d02(0x25f)+_0x2e5cd1+'/'+_0x437a41+_0x356d02(0x29a),_0xda2536='https://'+_0x2e5cd1+'/'+_0x437a41+'/pcl',_0x430614='https://'+_0x2e5cd1+'/'+_0x437a41+_0x356d02(0x1b3),_0x47c1bc=_0x2c8251[_0x356d02(0x252)](/\n/g,'<br>'),_0xd4abf4='\x0a<head>\x0a<meta\x20charset=\x22UTF-8\x22>\x0a<meta\x20name=\x22viewport\x22\x20content=\x22width=device-width,\x20initial-scale=1.0\x22>\x0a<link\x20href=\x22https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css\x22\x20rel=\x22stylesheet\x22\x20integrity=\x22sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH\x22\x20crossorigin=\x22anonymous\x22>\x0a<script\x20src=\x22https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js\x22\x20integrity=\x22sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz\x22\x20crossorigin=\x22anonymous\x22></script>\x0a<style>\x0a.limited-width\x20{\x0a\x20\x20\x20\x20max-width:\x20200px;\x0a\x20\x20\x20\x20overflow:\x20auto;\x0a\x20\x20\x20\x20word-wrap:\x20break-word;\x0a}\x0a</style>\x0a</head>\x0a<script>\x0afunction\x20copyToClipboard(text)\x20{\x0a\x20\x20const\x20input\x20=\x20document.createElement(\x27textarea\x27);\x0a\x20\x20input.style.position\x20=\x20\x27fixed\x27;\x0a\x20\x20input.style.opacity\x20=\x200;\x0a\x20\x20input.value\x20=\x20text;\x0a\x20\x20document.body.appendChild(input);\x0a\x20\x20input.select();\x0a\x20\x20document.execCommand(\x27Copy\x27);\x0a\x20\x20document.body.removeChild(input);\x0a\x20\x20alert(\x27已复制到剪贴板\x27);\x0a}\x0a</script>\x0a';return _0x2e5cd1[_0x356d02(0x24c)]('workers.dev')?_0x356d02(0x279)+_0xd4abf4+_0x356d02(0x276)+_0x47c1bc+_0x356d02(0x221)+_0x410cf6+_0x356d02(0x1b8)+_0x410cf6+_0x356d02(0x1e8)+_0x437a41+_0x356d02(0x296)+_0x2e5cd1+_0x356d02(0x26c)+_0x579e5f+_0x356d02(0x1b6)+_0x579e5f+'\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5>客户端参数如下：</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>客户端地址(address)：自定义的域名\x20或者\x20优选域名\x20或者\x20优选IP\x20或者\x20反代IP</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>端口(port)：6个https端口可任意选择(443、8443、2053、2083、2087、2096)，或反代IP对应端口</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>用户ID(uuid)：'+_0x437a41+'</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>传输协议(network)：ws\x20或者\x20websocket</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>伪装域名(host)：'+_0x2e5cd1+_0x356d02(0x253)+_0x42b387+_0x356d02(0x1fc)+_0x42b387+_0x356d02(0x1c9)+_0x2ad40c+'</td>\x09\x0a\x09\x09\x09\x09\x09\x09\x09\x09<td><button\x20class=\x22btn\x20btn-primary\x22\x20onclick=\x22copyToClipboard(\x27'+_0x2ad40c+_0x356d02(0x27e)+_0x34f59b+_0x356d02(0x1fc)+_0x34f59b+_0x356d02(0x1ca):_0x356d02(0x279)+_0xd4abf4+_0x356d02(0x22f)+_0x47c1bc+_0x356d02(0x255)+_0x579e5f+_0x356d02(0x1b8)+_0x579e5f+_0x356d02(0x1c4)+_0x437a41+_0x356d02(0x296)+_0x2e5cd1+_0x356d02(0x1a7)+_0x26e499+_0x356d02(0x1fc)+_0x26e499+'\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09\x09</table>\x09\x0a\x0a\x09\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<th>Clash-meta订阅链接：</th>\x0a\x09\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>'+_0xda2536+_0x356d02(0x1fd)+_0xda2536+'\x27)\x22>点击复制链接</button></td>\x0a\x09\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09\x09</tbody>\x0a\x09\x09\x09\x09\x09</table>\x0a\x0a\x09\x09\x09\x09\x09<table\x20class=\x22table\x22>\x0a\x09\x09\x09\x09\x09<thead>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<th>Sing-box订阅链接：</th>\x0a\x09\x09\x09\x09\x09\x09</tr>\x0a\x09\x09\x09\x09\x09</thead>\x0a\x09\x09\x09\x09\x09<tbody>\x0a\x09\x09\x09\x09\x09\x09<tr>\x0a\x09\x09\x09\x09\x09\x09\x09<td\x20class=\x22limited-width\x22>'+_0x430614+_0x356d02(0x1fc)+_0x430614+_0x356d02(0x1ca);}function gettyConfig(_0x3c8a84,_0x58e56e){const _0x53bb74=a0_0x24f303,_0x3658bc=btoa(_0x53bb74(0x21b)+_0x3c8a84+'@'+IP1+':'+PT1+'?encryption=none&security=none&fp=randomized&type=ws&host='+_0x58e56e+'&path=%2F%3Fed%3D2560#CF_V1_'+IP1+'_'+PT1+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP2+':'+PT2+_0x53bb74(0x1f2)+_0x58e56e+'&path=%2F%3Fed%3D2560#CF_V2_'+IP2+'_'+PT2+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP3+':'+PT3+_0x53bb74(0x1f2)+_0x58e56e+'&path=%2F%3Fed%3D2560#CF_V3_'+IP3+'_'+PT3+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP4+':'+PT4+_0x53bb74(0x1f2)+_0x58e56e+_0x53bb74(0x23b)+IP4+'_'+PT4+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP5+':'+PT5+_0x53bb74(0x1f2)+_0x58e56e+_0x53bb74(0x1bd)+IP5+'_'+PT5+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP6+':'+PT6+_0x53bb74(0x1f2)+_0x58e56e+_0x53bb74(0x26b)+IP6+'_'+PT6+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP7+':'+PT7+_0x53bb74(0x1f2)+_0x58e56e+_0x53bb74(0x1c8)+IP7+'_'+PT7+'\x0avless://'+_0x3c8a84+'@'+IP8+':'+PT8+_0x53bb74(0x1fb)+_0x58e56e+_0x53bb74(0x298)+_0x58e56e+_0x53bb74(0x2a4)+IP8+'_'+PT8+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP9+':'+PT9+_0x53bb74(0x1fb)+_0x58e56e+_0x53bb74(0x298)+_0x58e56e+'&path=%2F%3Fed%3D2560#CF_V9_'+IP9+'_'+PT9+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP10+':'+PT10+_0x53bb74(0x1fb)+_0x58e56e+_0x53bb74(0x298)+_0x58e56e+_0x53bb74(0x283)+IP10+'_'+PT10+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP11+':'+PT11+_0x53bb74(0x1fb)+_0x58e56e+_0x53bb74(0x298)+_0x58e56e+'&path=%2F%3Fed%3D2560#CF_V11_'+IP11+'_'+PT11+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP12+':'+PT12+_0x53bb74(0x1fb)+_0x58e56e+_0x53bb74(0x298)+_0x58e56e+_0x53bb74(0x1f9)+IP12+'_'+PT12+_0x53bb74(0x1a8)+_0x3c8a84+'@'+IP13+':'+PT13+_0x53bb74(0x1fb)+_0x58e56e+'&fp=randomized&type=ws&host='+_0x58e56e+_0x53bb74(0x1b1)+IP13+'_'+PT13);return''+_0x3658bc;}function getclConfig(_0x50fab2,_0x1dd1ed){const _0x522c0f=a0_0x24f303;return _0x522c0f(0x251)+IP1+'_'+PT1+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+IP1+_0x522c0f(0x224)+PT1+_0x522c0f(0x281)+_0x50fab2+_0x522c0f(0x1d7)+_0x1dd1ed+_0x522c0f(0x1ef)+IP2+'_'+PT2+_0x522c0f(0x2af)+IP2+'\x0a\x20\x20port:\x20'+PT2+_0x522c0f(0x281)+_0x50fab2+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20false\x0a\x20\x20network:\x20ws\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20'+_0x1dd1ed+'\x0a\x0a-\x20name:\x20CF_V3_'+IP3+'_'+PT3+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+IP3+'\x0a\x20\x20port:\x20'+PT3+_0x522c0f(0x281)+_0x50fab2+_0x522c0f(0x1d7)+_0x1dd1ed+_0x522c0f(0x25b)+IP4+'_'+PT4+_0x522c0f(0x2af)+IP4+'\x0a\x20\x20port:\x20'+PT4+_0x522c0f(0x281)+_0x50fab2+_0x522c0f(0x1d7)+_0x1dd1ed+_0x522c0f(0x272)+IP5+'_'+PT5+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+IP5+_0x522c0f(0x224)+PT5+_0x522c0f(0x281)+_0x50fab2+_0x522c0f(0x1d7)+_0x1dd1ed+_0x522c0f(0x1a9)+IP6+'_'+PT6+'\x0a\x20\x20type:\x20vless\x0a\x20\x20server:\x20'+IP6+_0x522c0f(0x224)+PT6+_0x522c0f(0x281)+_0x50fab2+_0x522c0f(0x1d7)+_0x1dd1ed+_0x522c0f(0x1c3)+IP7+'_'+PT7+_0x522c0f(0x2af)+IP7+_0x522c0f(0x224)+PT7+_0x522c0f(0x281)+_0x50fab2+_0x522c0f(0x2a0)+_0x1dd1ed+_0x522c0f(0x2b9)+_0x1dd1ed+_0x522c0f(0x206)+IP8+'_'+PT8+_0x522c0f(0x2af)+IP8+_0x522c0f(0x224)+PT8+_0x522c0f(0x281)+_0x50fab2+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x1dd1ed+_0x522c0f(0x2b9)+_0x1dd1ed+_0x522c0f(0x1f5)+IP9+'_'+PT9+_0x522c0f(0x2af)+IP9+'\x0a\x20\x20port:\x20'+PT9+_0x522c0f(0x281)+_0x50fab2+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x1dd1ed+'\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20'+_0x1dd1ed+_0x522c0f(0x1b0)+IP10+'_'+PT10+_0x522c0f(0x2af)+IP10+_0x522c0f(0x224)+PT10+_0x522c0f(0x281)+_0x50fab2+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x1dd1ed+_0x522c0f(0x2b9)+_0x1dd1ed+_0x522c0f(0x27d)+IP11+'_'+PT11+_0x522c0f(0x2af)+IP11+_0x522c0f(0x224)+PT11+'\x0a\x20\x20uuid:\x20'+_0x50fab2+_0x522c0f(0x2b0)+_0x1dd1ed+_0x522c0f(0x2b9)+_0x1dd1ed+_0x522c0f(0x1f1)+IP12+'_'+PT12+_0x522c0f(0x2af)+IP12+'\x0a\x20\x20port:\x20'+PT12+_0x522c0f(0x281)+_0x50fab2+_0x522c0f(0x2b0)+_0x1dd1ed+_0x522c0f(0x2b9)+_0x1dd1ed+_0x522c0f(0x27b)+IP13+'_'+PT13+_0x522c0f(0x2af)+IP13+_0x522c0f(0x224)+PT13+'\x0a\x20\x20uuid:\x20'+_0x50fab2+_0x522c0f(0x2b0)+_0x1dd1ed+'\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20'+_0x1dd1ed+_0x522c0f(0x28a)+IP1+'_'+PT1+'\x0a\x20\x20\x20\x20-\x20CF_V2_'+IP2+'_'+PT2+_0x522c0f(0x25c)+IP3+'_'+PT3+_0x522c0f(0x212)+IP4+'_'+PT4+'\x0a\x20\x20\x20\x20-\x20CF_V5_'+IP5+'_'+PT5+_0x522c0f(0x23d)+IP6+'_'+PT6+_0x522c0f(0x204)+IP7+'_'+PT7+'\x0a\x20\x20\x20\x20-\x20CF_V8_'+IP8+'_'+PT8+_0x522c0f(0x259)+IP9+'_'+PT9+_0x522c0f(0x1b2)+IP10+'_'+PT10+_0x522c0f(0x28f)+IP11+'_'+PT11+_0x522c0f(0x1c2)+IP12+'_'+PT12+_0x522c0f(0x274)+IP13+'_'+PT13+_0x522c0f(0x256)+IP1+'_'+PT1+'\x0a\x20\x20\x20\x20-\x20CF_V2_'+IP2+'_'+PT2+_0x522c0f(0x25c)+IP3+'_'+PT3+_0x522c0f(0x212)+IP4+'_'+PT4+_0x522c0f(0x1c0)+IP5+'_'+PT5+'\x0a\x20\x20\x20\x20-\x20CF_V6_'+IP6+'_'+PT6+_0x522c0f(0x204)+IP7+'_'+PT7+_0x522c0f(0x232)+IP8+'_'+PT8+_0x522c0f(0x259)+IP9+'_'+PT9+_0x522c0f(0x1b2)+IP10+'_'+PT10+'\x0a\x20\x20\x20\x20-\x20CF_V11_'+IP11+'_'+PT11+_0x522c0f(0x1c2)+IP12+'_'+PT12+_0x522c0f(0x274)+IP13+'_'+PT13+_0x522c0f(0x21f)+IP1+'_'+PT1+'\x0a\x20\x20\x20\x20-\x20CF_V2_'+IP2+'_'+PT2+'\x0a\x20\x20\x20\x20-\x20CF_V3_'+IP3+'_'+PT3+_0x522c0f(0x212)+IP4+'_'+PT4+_0x522c0f(0x1c0)+IP5+'_'+PT5+_0x522c0f(0x23d)+IP6+'_'+PT6+'\x0a\x20\x20\x20\x20-\x20CF_V7_'+IP7+'_'+PT7+'\x0a\x20\x20\x20\x20-\x20CF_V8_'+IP8+'_'+PT8+'\x0a\x20\x20\x20\x20-\x20CF_V9_'+IP9+'_'+PT9+_0x522c0f(0x1b2)+IP10+'_'+PT10+_0x522c0f(0x28f)+IP11+'_'+PT11+_0x522c0f(0x1c2)+IP12+'_'+PT12+_0x522c0f(0x274)+IP13+'_'+PT13+'\x0a\x0arules:\x0a\x20\x20-\x20GEOIP,LAN,DIRECT\x0a\x20\x20-\x20GEOIP,CN,DIRECT\x0a\x20\x20-\x20MATCH,🌍选择代理';}function getsbConfig(_0x464d57,_0x5d4933){const _0x8ee065=a0_0x24f303;return'{\x0a\x09\x20\x20\x22log\x22:\x20{\x0a\x09\x09\x22disabled\x22:\x20false,\x0a\x09\x09\x22level\x22:\x20\x22info\x22,\x0a\x09\x09\x22timestamp\x22:\x20true\x0a\x09\x20\x20},\x0a\x09\x20\x20\x22experimental\x22:\x20{\x0a\x09\x09\x22clash_api\x22:\x20{\x0a\x09\x09\x20\x20\x22external_controller\x22:\x20\x22127.0.0.1:9090\x22,\x0a\x09\x09\x20\x20\x22external_ui\x22:\x20\x22ui\x22,\x0a\x09\x09\x20\x20\x22external_ui_download_url\x22:\x20\x22\x22,\x0a\x09\x09\x20\x20\x22external_ui_download_detour\x22:\x20\x22\x22,\x0a\x09\x09\x20\x20\x22secret\x22:\x20\x22\x22,\x0a\x09\x09\x20\x20\x22default_mode\x22:\x20\x22Rule\x22\x0a\x09\x09},\x0a\x09\x09\x22cache_file\x22:\x20{\x0a\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x20\x20\x22path\x22:\x20\x22cache.db\x22,\x0a\x09\x09\x20\x20\x22store_fakeip\x22:\x20true\x0a\x09\x09}\x0a\x09\x20\x20},\x0a\x09\x20\x20\x22dns\x22:\x20{\x0a\x09\x09\x22servers\x22:\x20[\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22proxydns\x22,\x0a\x09\x09\x09\x22address\x22:\x20\x22tls://8.8.8.8/dns-query\x22,\x0a\x09\x09\x09\x22detour\x22:\x20\x22select\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22localdns\x22,\x0a\x09\x09\x09\x22address\x22:\x20\x22h3://223.5.5.5/dns-query\x22,\x0a\x09\x09\x09\x22detour\x22:\x20\x22direct\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22address\x22:\x20\x22rcode://refused\x22,\x0a\x09\x09\x09\x22tag\x22:\x20\x22block\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22tag\x22:\x20\x22dns_fakeip\x22,\x0a\x09\x09\x09\x22address\x22:\x20\x22fakeip\x22\x0a\x09\x09\x20\x20}\x0a\x09\x09],\x0a\x09\x09\x22rules\x22:\x20[\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22outbound\x22:\x20\x22any\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22localdns\x22,\x0a\x09\x09\x09\x22disable_cache\x22:\x20true\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22clash_mode\x22:\x20\x22Global\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22proxydns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22clash_mode\x22:\x20\x22Direct\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22localdns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-cn\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22localdns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x22server\x22:\x20\x22proxydns\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20{\x0a\x09\x09\x09\x22rule_set\x22:\x20\x22geosite-geolocation-!cn\x22,\x0a\x09\x09\x09\x22query_type\x22:\x20[\x0a\x09\x09\x09\x20\x20\x22A\x22,\x0a\x09\x09\x09\x20\x20\x22AAAA\x22\x0a\x09\x09\x09],\x0a\x09\x09\x09\x22server\x22:\x20\x22dns_fakeip\x22\x0a\x09\x09\x20\x20}\x0a\x09\x09],\x0a\x09\x09\x22fakeip\x22:\x20{\x0a\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x20\x20\x22inet4_range\x22:\x20\x22198.18.0.0/15\x22,\x0a\x09\x09\x20\x20\x22inet6_range\x22:\x20\x22fc00::/18\x22\x0a\x09\x09},\x0a\x09\x09\x22independent_cache\x22:\x20true,\x0a\x09\x09\x22final\x22:\x20\x22proxydns\x22\x0a\x09\x20\x20},\x0a\x09\x20\x20\x22inbounds\x22:\x20[\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22tun\x22,\x0a\x09\x09\x20\x20\x22inet4_address\x22:\x20\x22172.19.0.1/30\x22,\x0a\x09\x09\x20\x20\x22inet6_address\x22:\x20\x22fd00::1/126\x22,\x0a\x09\x09\x20\x20\x22auto_route\x22:\x20true,\x0a\x09\x09\x20\x20\x22strict_route\x22:\x20true,\x0a\x09\x09\x20\x20\x22sniff\x22:\x20true,\x0a\x09\x09\x20\x20\x22sniff_override_destination\x22:\x20true,\x0a\x09\x09\x20\x20\x22domain_strategy\x22:\x20\x22prefer_ipv4\x22\x0a\x09\x09}\x0a\x09\x20\x20],\x0a\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22select\x22,\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22selector\x22,\x0a\x09\x09\x20\x20\x22default\x22:\x20\x22auto\x22,\x0a\x09\x09\x20\x20\x22outbounds\x22:\x20[\x0a\x09\x09\x09\x22auto\x22,\x0a\x09\x09\x09\x22CF_V1_'+IP1+'_'+PT1+_0x8ee065(0x1d6)+IP2+'_'+PT2+_0x8ee065(0x26a)+IP3+'_'+PT3+_0x8ee065(0x2ac)+IP4+'_'+PT4+_0x8ee065(0x1f4)+IP5+'_'+PT5+_0x8ee065(0x29b)+IP6+'_'+PT6+_0x8ee065(0x1e4)+IP7+'_'+PT7+_0x8ee065(0x235)+IP8+'_'+PT8+_0x8ee065(0x287)+IP9+'_'+PT9+_0x8ee065(0x2a3)+IP10+'_'+PT10+'\x22,\x0a\x09\x09\x09\x22CF_V11_'+IP11+'_'+PT11+'\x22,\x0a\x09\x09\x09\x22CF_V12_'+IP12+'_'+PT12+_0x8ee065(0x205)+IP13+'_'+PT13+_0x8ee065(0x24e)+IP1+_0x8ee065(0x1fa)+PT1+_0x8ee065(0x21d)+IP1+'_'+PT1+_0x8ee065(0x1ea)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+_0x8ee065(0x267)+IP2+_0x8ee065(0x1fa)+PT2+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V2_'+IP2+'_'+PT2+_0x8ee065(0x1ea)+_0x5d4933+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x464d57+_0x8ee065(0x267)+IP3+_0x8ee065(0x1fa)+PT3+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V3_'+IP3+'_'+PT3+_0x8ee065(0x1ea)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP4+_0x8ee065(0x1fa)+PT4+_0x8ee065(0x258)+IP4+'_'+PT4+_0x8ee065(0x1ea)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+_0x8ee065(0x267)+IP5+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+PT5+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V5_'+IP5+'_'+PT5+_0x8ee065(0x1ea)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP6+_0x8ee065(0x1fa)+PT6+_0x8ee065(0x211)+IP6+'_'+PT6+_0x8ee065(0x1ea)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+_0x8ee065(0x267)+IP7+_0x8ee065(0x1fa)+PT7+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V7_'+IP7+'_'+PT7+'\x22,\x0a\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x22'+_0x5d4933+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x464d57+_0x8ee065(0x1e7)+IP8+_0x8ee065(0x1fa)+PT8+_0x8ee065(0x237)+IP8+'_'+PT8+_0x8ee065(0x24f)+_0x5d4933+_0x8ee065(0x23e)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+'\x22\x0a\x09\x09},\x0a\x09\x09{\x0a\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP9+'\x22,\x0a\x09\x09\x20\x20\x22server_port\x22:\x20'+PT9+_0x8ee065(0x2b2)+IP9+'_'+PT9+'\x22,\x0a\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x5d4933+_0x8ee065(0x23e)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+_0x8ee065(0x267)+IP10+_0x8ee065(0x1fa)+PT10+_0x8ee065(0x21c)+IP10+'_'+PT10+_0x8ee065(0x24f)+_0x5d4933+_0x8ee065(0x23e)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+_0x8ee065(0x267)+IP11+_0x8ee065(0x1fa)+PT11+',\x0a\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V11_'+IP11+'_'+PT11+'\x22,\x0a\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x5d4933+'\x22,\x0a\x09\x09\x09\x22insecure\x22:\x20false,\x0a\x09\x09\x09\x22utls\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x20\x20\x22fingerprint\x22:\x20\x22chrome\x22\x0a\x09\x09\x09}\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x22'+_0x5d4933+'\x22\x0a\x09\x09\x09\x20\x20]\x0a\x09\x09\x09},\x0a\x09\x09\x09\x22path\x22:\x20\x22/?ed=2560\x22,\x0a\x09\x09\x09\x22type\x22:\x20\x22ws\x22\x0a\x09\x09\x20\x20},\x0a\x09\x09\x20\x20\x22type\x22:\x20\x22vless\x22,\x0a\x09\x09\x20\x20\x22uuid\x22:\x20\x22'+_0x464d57+_0x8ee065(0x267)+IP12+_0x8ee065(0x1fa)+PT12+_0x8ee065(0x285)+IP12+'_'+PT12+_0x8ee065(0x24f)+_0x5d4933+_0x8ee065(0x23e)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+_0x8ee065(0x267)+IP13+_0x8ee065(0x1fa)+PT13+_0x8ee065(0x219)+IP13+'_'+PT13+_0x8ee065(0x24f)+_0x5d4933+_0x8ee065(0x23e)+_0x5d4933+_0x8ee065(0x1ab)+_0x464d57+_0x8ee065(0x218)+IP1+'_'+PT1+_0x8ee065(0x1d6)+IP2+'_'+PT2+_0x8ee065(0x26a)+IP3+'_'+PT3+'\x22,\x0a\x09\x09\x09\x22CF_V4_'+IP4+'_'+PT4+_0x8ee065(0x1f4)+IP5+'_'+PT5+'\x22,\x0a\x09\x09\x09\x22CF_V6_'+IP6+'_'+PT6+_0x8ee065(0x1e4)+IP7+'_'+PT7+'\x22,\x0a\x09\x09\x09\x22CF_V8_'+IP8+'_'+PT8+_0x8ee065(0x287)+IP9+'_'+PT9+_0x8ee065(0x2a3)+IP10+'_'+PT10+'\x22,\x0a\x09\x09\x09\x22CF_V11_'+IP11+'_'+PT11+_0x8ee065(0x1c6)+IP12+'_'+PT12+'\x22,\x0a\x09\x09\x09\x22CF_V13_'+IP13+'_'+PT13+_0x8ee065(0x225);}function getptyConfig(_0x44a03d,_0x3c45df){const _0x14c942=a0_0x24f303,_0x444bce=btoa(_0x14c942(0x21b)+_0x44a03d+'@'+IP8+':'+PT8+_0x14c942(0x1fb)+_0x3c45df+_0x14c942(0x298)+_0x3c45df+_0x14c942(0x2a4)+IP8+'_'+PT8+'\x0avless://'+_0x44a03d+'@'+IP9+':'+PT9+_0x14c942(0x1fb)+_0x3c45df+_0x14c942(0x298)+_0x3c45df+_0x14c942(0x1d5)+IP9+'_'+PT9+_0x14c942(0x1a8)+_0x44a03d+'@'+IP10+':'+PT10+_0x14c942(0x1fb)+_0x3c45df+_0x14c942(0x298)+_0x3c45df+_0x14c942(0x283)+IP10+'_'+PT10+_0x14c942(0x1a8)+_0x44a03d+'@'+IP11+':'+PT11+'?encryption=none&security=tls&sni='+_0x3c45df+_0x14c942(0x298)+_0x3c45df+_0x14c942(0x294)+IP11+'_'+PT11+'\x0avless://'+_0x44a03d+'@'+IP12+':'+PT12+_0x14c942(0x1fb)+_0x3c45df+'&fp=randomized&type=ws&host='+_0x3c45df+_0x14c942(0x1f9)+IP12+'_'+PT12+_0x14c942(0x1a8)+_0x44a03d+'@'+IP13+':'+PT13+_0x14c942(0x1fb)+_0x3c45df+_0x14c942(0x298)+_0x3c45df+_0x14c942(0x1b1)+IP13+'_'+PT13);return''+_0x444bce;}function getpclConfig(_0x237360,_0x43e716){const _0x4a37d9=a0_0x24f303;return _0x4a37d9(0x1bb)+IP8+'_'+PT8+_0x4a37d9(0x2af)+IP8+'\x0a\x20\x20port:\x20'+PT8+_0x4a37d9(0x281)+_0x237360+_0x4a37d9(0x2b0)+_0x43e716+_0x4a37d9(0x2b9)+_0x43e716+'\x0a\x0a-\x20name:\x20CF_V9_'+IP9+'_'+PT9+_0x4a37d9(0x2af)+IP9+_0x4a37d9(0x224)+PT9+_0x4a37d9(0x281)+_0x237360+_0x4a37d9(0x2b0)+_0x43e716+_0x4a37d9(0x2b9)+_0x43e716+'\x0a\x0a-\x20name:\x20CF_V10_'+IP10+'_'+PT10+_0x4a37d9(0x2af)+IP10+'\x0a\x20\x20port:\x20'+PT10+'\x0a\x20\x20uuid:\x20'+_0x237360+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x43e716+_0x4a37d9(0x2b9)+_0x43e716+_0x4a37d9(0x27d)+IP11+'_'+PT11+_0x4a37d9(0x2af)+IP11+'\x0a\x20\x20port:\x20'+PT11+'\x0a\x20\x20uuid:\x20'+_0x237360+'\x0a\x20\x20udp:\x20false\x0a\x20\x20tls:\x20true\x0a\x20\x20network:\x20ws\x0a\x20\x20servername:\x20'+_0x43e716+_0x4a37d9(0x2b9)+_0x43e716+_0x4a37d9(0x1f1)+IP12+'_'+PT12+_0x4a37d9(0x2af)+IP12+_0x4a37d9(0x224)+PT12+_0x4a37d9(0x281)+_0x237360+_0x4a37d9(0x2b0)+_0x43e716+_0x4a37d9(0x2b9)+_0x43e716+'\x0a\x0a-\x20name:\x20CF_V13_'+IP13+'_'+PT13+_0x4a37d9(0x2af)+IP13+'\x0a\x20\x20port:\x20'+PT13+'\x0a\x20\x20uuid:\x20'+_0x237360+_0x4a37d9(0x2b0)+_0x43e716+'\x0a\x20\x20ws-opts:\x0a\x20\x20\x20\x20path:\x20\x22/?ed=2560\x22\x0a\x20\x20\x20\x20headers:\x0a\x20\x20\x20\x20\x20\x20Host:\x20'+_0x43e716+'\x0a\x0aproxy-groups:\x0a-\x20name:\x20负载均衡\x0a\x20\x20type:\x20load-balance\x0a\x20\x20url:\x20http://www.gstatic.com/generate_204\x0a\x20\x20interval:\x20300\x0a\x20\x20proxies:\x0a\x20\x20\x20\x20-\x20CF_V8_'+IP8+'_'+PT8+_0x4a37d9(0x259)+IP9+'_'+PT9+_0x4a37d9(0x1b2)+IP10+'_'+PT10+_0x4a37d9(0x28f)+IP11+'_'+PT11+_0x4a37d9(0x1c2)+IP12+'_'+PT12+'\x0a\x20\x20\x20\x20-\x20CF_V13_'+IP13+'_'+PT13+_0x4a37d9(0x268)+IP8+'_'+PT8+'\x0a\x20\x20\x20\x20-\x20CF_V9_'+IP9+'_'+PT9+'\x0a\x20\x20\x20\x20-\x20CF_V10_'+IP10+'_'+PT10+_0x4a37d9(0x28f)+IP11+'_'+PT11+'\x0a\x20\x20\x20\x20-\x20CF_V12_'+IP12+'_'+PT12+_0x4a37d9(0x274)+IP13+'_'+PT13+_0x4a37d9(0x282)+IP8+'_'+PT8+_0x4a37d9(0x259)+IP9+'_'+PT9+_0x4a37d9(0x1b2)+IP10+'_'+PT10+_0x4a37d9(0x28f)+IP11+'_'+PT11+_0x4a37d9(0x1c2)+IP12+'_'+PT12+_0x4a37d9(0x274)+IP13+'_'+PT13+_0x4a37d9(0x25d);}function getpsbConfig(_0x485869,_0x44b293){const _0x401d09=a0_0x24f303;return _0x401d09(0x248)+IP8+'_'+PT8+_0x401d09(0x29d)+IP9+'_'+PT9+_0x401d09(0x2ae)+IP10+'_'+PT10+_0x401d09(0x25a)+IP11+'_'+PT11+_0x401d09(0x1eb)+IP12+'_'+PT12+_0x401d09(0x207)+IP13+'_'+PT13+_0x401d09(0x1af)+IP8+_0x401d09(0x1ac)+PT8+_0x401d09(0x1bc)+IP8+'_'+PT8+'\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x44b293+_0x401d09(0x2b1)+_0x44b293+_0x401d09(0x1d9)+_0x485869+_0x401d09(0x234)+IP9+_0x401d09(0x1ac)+PT9+_0x401d09(0x292)+IP9+'_'+PT9+'\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x44b293+'\x22,\x0a\x09\x09\x09\x09\x22insecure\x22:\x20false,\x0a\x09\x09\x09\x09\x22utls\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x20\x20\x22fingerprint\x22:\x20\x22chrome\x22\x0a\x09\x09\x09\x09}\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x09\x22'+_0x44b293+_0x401d09(0x1d9)+_0x485869+_0x401d09(0x234)+IP10+_0x401d09(0x1ac)+PT10+_0x401d09(0x222)+IP10+'_'+PT10+'\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x44b293+_0x401d09(0x2b1)+_0x44b293+_0x401d09(0x1d9)+_0x485869+'\x22\x0a\x09\x09\x09},\x0a\x09\x09\x09{\x0a\x09\x09\x09\x20\x20\x22server\x22:\x20\x22'+IP11+_0x401d09(0x1ac)+PT11+',\x0a\x09\x09\x09\x20\x20\x22tag\x22:\x20\x22CF_V11_'+IP11+'_'+PT11+'\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x44b293+_0x401d09(0x2b1)+_0x44b293+_0x401d09(0x1d9)+_0x485869+_0x401d09(0x234)+IP12+_0x401d09(0x1ac)+PT12+_0x401d09(0x27f)+IP12+'_'+PT12+_0x401d09(0x1c7)+_0x44b293+_0x401d09(0x2b1)+_0x44b293+_0x401d09(0x1d9)+_0x485869+_0x401d09(0x234)+IP13+_0x401d09(0x1ac)+PT13+_0x401d09(0x2ad)+IP13+'_'+PT13+'\x22,\x0a\x09\x09\x09\x20\x20\x22tls\x22:\x20{\x0a\x09\x09\x09\x09\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x22server_name\x22:\x20\x22'+_0x44b293+'\x22,\x0a\x09\x09\x09\x09\x22insecure\x22:\x20false,\x0a\x09\x09\x09\x09\x22utls\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22enabled\x22:\x20true,\x0a\x09\x09\x09\x09\x20\x20\x22fingerprint\x22:\x20\x22chrome\x22\x0a\x09\x09\x09\x09}\x0a\x09\x09\x09\x20\x20},\x0a\x09\x09\x09\x20\x20\x22packet_encoding\x22:\x20\x22packetaddr\x22,\x0a\x09\x09\x09\x20\x20\x22transport\x22:\x20{\x0a\x09\x09\x09\x09\x22headers\x22:\x20{\x0a\x09\x09\x09\x09\x20\x20\x22Host\x22:\x20[\x0a\x09\x09\x09\x09\x09\x22'+_0x44b293+_0x401d09(0x1d9)+_0x485869+_0x401d09(0x2a9)+IP8+'_'+PT8+_0x401d09(0x29d)+IP9+'_'+PT9+_0x401d09(0x2ae)+IP10+'_'+PT10+_0x401d09(0x25a)+IP11+'_'+PT11+_0x401d09(0x1eb)+IP12+'_'+PT12+'\x22,\x0a\x09\x09\x09\x09\x22CF_V13_'+IP13+'_'+PT13+_0x401d09(0x23a);}
+// <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
+// @ts-ignore
+import { connect } from "cloudflare:sockets";
+
+// How to generate your own UUID:
+// [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
+let userID = "86c50e3a-5b87-49dd-bd20-03c7f2735e40";
+
+const proxyIPs = ["ts.hpc.tw"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
+const cn_hostnames = ['']; s
+let CDNIP = 'www.visa.com.sg' s
+// http_ip
+let IP1 = 'www.visa.com'
+let IP2 = 'cis.visa.com'
+let IP3 = 'africa.visa.com'
+let IP4 = 'www.visa.com.sg'
+let IP5 = 'www.visaeurope.at'
+let IP6 = 'www.visa.com.mt'
+let IP7 = 'qa.visamiddleeast.com'
+
+// https_ip
+let IP8 = 'usa.visa.com'
+let IP9 = 'myanmar.visa.com'
+let IP10 = 'www.visa.com.tw'
+let IP11 = 'www.visaeurope.ch'
+let IP12 = 'www.visa.com.br'
+let IP13 = 'www.visasoutheasteurope.com'
+
+// http_port
+let PT1 = '80'
+let PT2 = '8080'
+let PT3 = '8880'
+let PT4 = '2052'
+let PT5 = '2082'
+let PT6 = '2086'
+let PT7 = '2095'
+
+// https_port
+let PT8 = '443'
+let PT9 = '8443'
+let PT10 = '2053'
+let PT11 = '2083'
+let PT12 = '2087'
+let PT13 = '2096'
+
+let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+let proxyPort = proxyIP.includes(':') ? proxyIP.split(':')[1] : '443';
+
+if (!isValidUUID(userID)) {
+  throw new Error("uuid is not valid");
+}
+
+export default {
+  /**
+   * @param {import("@cloudflare/workers-types").Request} request
+   * @param {uuid: string, proxyip: string, cdnip: string, ip1: string, ip2: string, ip3: string, ip4: string, ip5: string, ip6: string, ip7: string, ip8: string, ip9: string, ip10: string, ip11: string, ip12: string, ip13: string, pt1: string, pt2: string, pt3: string, pt4: string, pt5: string, pt6: string, pt7: string, pt8: string, pt9: string, pt10: string, pt11: string, pt12: string, pt13: string} env
+   * @param {import("@cloudflare/workers-types").ExecutionContext} ctx
+   * @returns {Promise<Response>}
+   */
+  async fetch(request, env, ctx) {
+    try {
+      const { proxyip } = env;
+      userID = env.uuid || userID;
+			if (proxyip) {
+				if (proxyip.includes(']:')) {
+					let lastColonIndex = proxyip.lastIndexOf(':');
+					proxyPort = proxyip.slice(lastColonIndex + 1);
+					proxyIP = proxyip.slice(0, lastColonIndex);
+					
+				} else if (!proxyip.includes(']:') && !proxyip.includes(']')) {
+					[proxyIP, proxyPort = '443'] = proxyip.split(':');
+				} else {
+					proxyPort = '443';
+					proxyIP = proxyip;
+				}				
+			} else {
+				if (proxyIP.includes(']:')) {
+					let lastColonIndex = proxyIP.lastIndexOf(':');
+					proxyPort = proxyIP.slice(lastColonIndex + 1);
+					proxyIP = proxyIP.slice(0, lastColonIndex);	
+				} else if (!proxyIP.includes(']:') && !proxyIP.includes(']')) {
+					[proxyIP, proxyPort = '443'] = proxyIP.split(':');
+				} else {
+					proxyPort = '443';
+				}	
+			}
+			console.log('ProxyIP:', proxyIP);
+			console.log('ProxyPort:', proxyPort);
+      CDNIP = env.cdnip || CDNIP;
+	  IP1 = env.ip1 || IP1;
+	  IP2 = env.ip2 || IP2;
+	  IP3 = env.ip3 || IP3;
+	  IP4 = env.ip4 || IP4;
+	  IP5 = env.ip5 || IP5;
+	  IP6 = env.ip6 || IP6;
+	  IP7 = env.ip7 || IP7;
+	  IP8 = env.ip8 || IP8;
+	  IP9 = env.ip9 || IP9;
+	  IP10 = env.ip10 || IP10;
+	  IP11 = env.ip11 || IP11;
+	  IP12 = env.ip12 || IP12;
+	  IP13 = env.ip13 || IP13;
+	  PT1 = env.pt1 || PT1;
+	  PT2 = env.pt2 || PT2;
+	  PT3 = env.pt3 || PT3;
+	  PT4 = env.pt4 || PT4;
+	  PT5 = env.pt5 || PT5;
+	  PT6 = env.pt6 || PT6;
+	  PT7 = env.pt7 || PT7;
+	  PT8 = env.pt8 || PT8;
+	  PT9 = env.pt9 || PT9;
+	  PT10 = env.pt10 || PT10;
+	  PT11 = env.pt11 || PT11;
+	  PT12 = env.pt12 || PT12;
+	  PT13 = env.pt13 || PT13;
+      const upgradeHeader = request.headers.get("Upgrade");
+      const url = new URL(request.url);
+      if (!upgradeHeader || upgradeHeader !== "websocket") {
+        const url = new URL(request.url);
+        switch (url.pathname) {
+          case `/${userID}`: {
+            const vlessConfig = getVLESSConfig(userID, request.headers.get("Host"));
+            return new Response(`${vlessConfig}`, {
+              status: 200,
+              headers: {
+                "Content-Type": "text/html;charset=utf-8",
+              },
+            });
+          }
+		  case `/${userID}/ty`: {
+			const tyConfig = gettyConfig(userID, request.headers.get('Host'));
+			return new Response(`${tyConfig}`, {
+				status: 200,
+				headers: {
+					"Content-Type": "text/plain;charset=utf-8",
+				}
+			});
+		}
+		case `/${userID}/cl`: {
+			const clConfig = getclConfig(userID, request.headers.get('Host'));
+			return new Response(`${clConfig}`, {
+				status: 200,
+				headers: {
+					"Content-Type": "text/plain;charset=utf-8",
+				}
+			});
+		}
+		case `/${userID}/sb`: {
+			const sbConfig = getsbConfig(userID, request.headers.get('Host'));
+			return new Response(`${sbConfig}`, {
+				status: 200,
+				headers: {
+					"Content-Type": "application/json;charset=utf-8",
+				}
+			});
+		}
+		case `/${userID}/pty`: {
+			const ptyConfig = getptyConfig(userID, request.headers.get('Host'));
+			return new Response(`${ptyConfig}`, {
+				status: 200,
+				headers: {
+					"Content-Type": "text/plain;charset=utf-8",
+				}
+			});
+		}
+		case `/${userID}/pcl`: {
+			const pclConfig = getpclConfig(userID, request.headers.get('Host'));
+			return new Response(`${pclConfig}`, {
+				status: 200,
+				headers: {
+					"Content-Type": "text/plain;charset=utf-8",
+				}
+			});
+		}
+		case `/${userID}/psb`: {
+			const psbConfig = getpsbConfig(userID, request.headers.get('Host'));
+			return new Response(`${psbConfig}`, {
+				status: 200,
+				headers: {
+					"Content-Type": "application/json;charset=utf-8",
+				}
+			});
+		}
+          default:
+            // return new Response('Not found', { status: 404 });
+            // For any other path, reverse proxy to 'ramdom website' and return the original response, caching it in the process
+            if (cn_hostnames.includes('')) {
+            return new Response(JSON.stringify(request.cf, null, 4), {
+              status: 200,
+              headers: {
+                "Content-Type": "application/json;charset=utf-8",
+              },
+            });
+            }
+            const randomHostname = cn_hostnames[Math.floor(Math.random() * cn_hostnames.length)];
+            const newHeaders = new Headers(request.headers);
+            newHeaders.set("cf-connecting-ip", "1.2.3.4");
+            newHeaders.set("x-forwarded-for", "1.2.3.4");
+            newHeaders.set("x-real-ip", "1.2.3.4");
+            newHeaders.set("referer", "https://www.google.com/search?q=edtunnel");
+            // Use fetch to proxy the request to 15 different domains
+            const proxyUrl = "https://" + randomHostname + url.pathname + url.search;
+            let modifiedRequest = new Request(proxyUrl, {
+              method: request.method,
+              headers: newHeaders,
+              body: request.body,
+              redirect: "manual",
+            });
+            const proxyResponse = await fetch(modifiedRequest, { redirect: "manual" });
+            // Check for 302 or 301 redirect status and return an error response
+            if ([301, 302].includes(proxyResponse.status)) {
+              return new Response(`Redirects to ${randomHostname} are not allowed.`, {
+                status: 403,
+                statusText: "Forbidden",
+              });
+            }
+            // Return the response from the proxy server
+            return proxyResponse;
+        }
+      } else {
+			if(url.pathname.includes('/pyip='))
+			{
+				const tmp_ip=url.pathname.split("=")[1];
+				if(isValidIP(tmp_ip))
+				{
+					proxyIP=tmp_ip;
+					if (proxyIP.includes(']:')) {
+						let lastColonIndex = proxyIP.lastIndexOf(':');
+						proxyPort = proxyIP.slice(lastColonIndex + 1);
+						proxyIP = proxyIP.slice(0, lastColonIndex);	
+					} else if (!proxyIP.includes(']:') && !proxyIP.includes(']')) {
+						[proxyIP, proxyPort = '443'] = proxyIP.split(':');
+					} else {
+						proxyPort = '443';
+					}
+				}	
+			}
+        return await vlessOverWSHandler(request);
+		}
+    } catch (err) {
+      /** @type {Error} */ let e = err;
+      return new Response(e.toString());
+    }
+  },
+};
+
+function isValidIP(ip) {
+    var reg = /^[\s\S]*$/;
+    return reg.test(ip);
+}
+
+/**
+ *
+ * @param {import("@cloudflare/workers-types").Request} request
+ */
+async function vlessOverWSHandler(request) {
+  /** @type {import("@cloudflare/workers-types").WebSocket[]} */
+  // @ts-ignore
+  const webSocketPair = new WebSocketPair();
+  const [client, webSocket] = Object.values(webSocketPair);
+
+  webSocket.accept();
+
+  let address = "";
+  let portWithRandomLog = "";
+  const log = (/** @type {string} */ info, /** @type {string | undefined} */ event) => {
+    console.log(`[${address}:${portWithRandomLog}] ${info}`, event || "");
+  };
+  const earlyDataHeader = request.headers.get("sec-websocket-protocol") || "";
+
+  const readableWebSocketStream = makeReadableWebSocketStream(webSocket, earlyDataHeader, log);
+
+  /** @type {{ value: import("@cloudflare/workers-types").Socket | null}}*/
+  let remoteSocketWapper = {
+    value: null,
+  };
+  let udpStreamWrite = null;
+  let isDns = false;
+
+  // ws --> remote
+  readableWebSocketStream
+    .pipeTo(
+      new WritableStream({
+        async write(chunk, controller) {
+          if (isDns && udpStreamWrite) {
+            return udpStreamWrite(chunk);
+          }
+          if (remoteSocketWapper.value) {
+            const writer = remoteSocketWapper.value.writable.getWriter();
+            await writer.write(chunk);
+            writer.releaseLock();
+            return;
+          }
+
+          const {
+            hasError,
+            message,
+            portRemote = 443,
+            addressRemote = "",
+            rawDataIndex,
+            vlessVersion = new Uint8Array([0, 0]),
+            isUDP,
+          } = await processVlessHeader(chunk, userID);
+          address = addressRemote;
+          portWithRandomLog = `${portRemote}--${Math.random()} ${isUDP ? "udp " : "tcp "} `;
+          if (hasError) {
+            // controller.error(message);
+            throw new Error(message); // cf seems has bug, controller.error will not end stream
+            // webSocket.close(1000, message);
+            return;
+          }
+          // if UDP but port not DNS port, close it
+          if (isUDP) {
+            if (portRemote === 53) {
+              isDns = true;
+            } else {
+              // controller.error('UDP proxy only enable for DNS which is port 53');
+              throw new Error("UDP proxy only enable for DNS which is port 53"); // cf seems has bug, controller.error will not end stream
+              return;
+            }
+          }
+          // ["version", "附加信息长度 N"]
+          const vlessResponseHeader = new Uint8Array([vlessVersion[0], 0]);
+          const rawClientData = chunk.slice(rawDataIndex);
+
+          // TODO: support udp here when cf runtime has udp support
+          if (isDns) {
+            const { write } = await handleUDPOutBound(webSocket, vlessResponseHeader, log);
+            udpStreamWrite = write;
+            udpStreamWrite(rawClientData);
+            return;
+          }
+          handleTCPOutBound(
+            remoteSocketWapper,
+            addressRemote,
+            portRemote,
+            rawClientData,
+            webSocket,
+            vlessResponseHeader,
+            log
+          );
+        },
+        close() {
+          log(`readableWebSocketStream is close`);
+        },
+        abort(reason) {
+          log(`readableWebSocketStream is abort`, JSON.stringify(reason));
+        },
+      })
+    )
+    .catch((err) => {
+      log("readableWebSocketStream pipeTo error", err);
+    });
+
+  return new Response(null, {
+    status: 101,
+    // @ts-ignore
+    webSocket: client,
+  });
+}
+
+/**
+ * Checks if a given UUID is present in the API response.
+ * @param {string} targetUuid The UUID to search for.
+ * @returns {Promise<boolean>} A Promise that resolves to true if the UUID is present in the API response, false otherwise.
+ */
+async function checkUuidInApiResponse(targetUuid) {
+  // Check if any of the environment variables are empty
+
+  try {
+    const apiResponse = await getApiResponse();
+    if (!apiResponse) {
+      return false;
+    }
+    const isUuidInResponse = apiResponse.users.some((user) => user.uuid === targetUuid);
+    return isUuidInResponse;
+  } catch (error) {
+    console.error("Error:", error);
+    return false;
+  }
+}
+
+/**
+ * Handles outbound TCP connections.
+ *
+ * @param {any} remoteSocket
+ * @param {string} addressRemote The remote address to connect to.
+ * @param {number} portRemote The remote port to connect to.
+ * @param {Uint8Array} rawClientData The raw client data to write.
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocket The WebSocket to pass the remote socket to.
+ * @param {Uint8Array} vlessResponseHeader The VLESS response header.
+ * @param {function} log The logging function.
+ * @returns {Promise<void>} The remote socket.
+ */
+async function handleTCPOutBound(
+  remoteSocket,
+  addressRemote,
+  portRemote,
+  rawClientData,
+  webSocket,
+  vlessResponseHeader,
+  log
+) {
+  async function connectAndWrite(address, port) {
+    if (/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(address)) address = `${atob('d3d3Lg==')}${address}${atob('LnNzbGlwLmlv')}`;
+    /** @type {import("@cloudflare/workers-types").Socket} */
+    const tcpSocket = connect({
+      hostname: address,
+      port: port,
+    });
+    remoteSocket.value = tcpSocket;
+    log(`connected to ${address}:${port}`);
+    const writer = tcpSocket.writable.getWriter();
+    await writer.write(rawClientData); // first write, nomal is tls client hello
+    writer.releaseLock();
+    return tcpSocket;
+  }
+
+  // if the cf connect tcp socket have no incoming data, we retry to redirect ip
+  async function retry() {
+    const tcpSocket = await connectAndWrite(proxyIP || addressRemote, proxyPort || portRemote);
+    // no matter retry success or not, close websocket
+    tcpSocket.closed
+      .catch((error) => {
+        console.log("retry tcpSocket closed error", error);
+      })
+      .finally(() => {
+        safeCloseWebSocket(webSocket);
+      });
+    remoteSocketToWS(tcpSocket, webSocket, vlessResponseHeader, null, log);
+  }
+
+  const tcpSocket = await connectAndWrite(addressRemote, portRemote);
+
+  // when remoteSocket is ready, pass to websocket
+  // remote--> ws
+  remoteSocketToWS(tcpSocket, webSocket, vlessResponseHeader, retry, log);
+}
+
+/**
+ *
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocketServer
+ * @param {string} earlyDataHeader for ws 0rtt
+ * @param {(info: string)=> void} log for ws 0rtt
+ */
+function makeReadableWebSocketStream(webSocketServer, earlyDataHeader, log) {
+  let readableStreamCancel = false;
+  const stream = new ReadableStream({
+    start(controller) {
+      webSocketServer.addEventListener("message", (event) => {
+        if (readableStreamCancel) {
+          return;
+        }
+        const message = event.data;
+        controller.enqueue(message);
+      });
+
+      // The event means that the client closed the client -> server stream.
+      // However, the server -> client stream is still open until you call close() on the server side.
+      // The WebSocket protocol says that a separate close message must be sent in each direction to fully close the socket.
+      webSocketServer.addEventListener("close", () => {
+        // client send close, need close server
+        // if stream is cancel, skip controller.close
+        safeCloseWebSocket(webSocketServer);
+        if (readableStreamCancel) {
+          return;
+        }
+        controller.close();
+      });
+      webSocketServer.addEventListener("error", (err) => {
+        log("webSocketServer has error");
+        controller.error(err);
+      });
+      // for ws 0rtt
+      const { earlyData, error } = base64ToArrayBuffer(earlyDataHeader);
+      if (error) {
+        controller.error(error);
+      } else if (earlyData) {
+        controller.enqueue(earlyData);
+      }
+    },
+
+    pull(controller) {
+      // if ws can stop read if stream is full, we can implement backpressure
+      // https://streams.spec.whatwg.org/#example-rs-push-backpressure
+    },
+    cancel(reason) {
+      // 1. pipe WritableStream has error, this cancel will called, so ws handle server close into here
+      // 2. if readableStream is cancel, all controller.close/enqueue need skip,
+      // 3. but from testing controller.error still work even if readableStream is cancel
+      if (readableStreamCancel) {
+        return;
+      }
+      log(`ReadableStream was canceled, due to ${reason}`);
+      readableStreamCancel = true;
+      safeCloseWebSocket(webSocketServer);
+    },
+  });
+
+  return stream;
+}
+
+// https://xtls.github.io/development/protocols/vless.html
+// https://github.com/zizifn/excalidraw-backup/blob/main/v2ray-protocol.excalidraw
+
+/**
+ *
+ * @param { ArrayBuffer} vlessBuffer
+ * @param {string} userID
+ * @returns
+ */
+async function processVlessHeader(vlessBuffer, userID) {
+  if (vlessBuffer.byteLength < 24) {
+    return {
+      hasError: true,
+      message: "invalid data",
+    };
+  }
+  const version = new Uint8Array(vlessBuffer.slice(0, 1));
+  let isValidUser = false;
+  let isUDP = false;
+  const slicedBuffer = new Uint8Array(vlessBuffer.slice(1, 17));
+  const slicedBufferString = stringify(slicedBuffer);
+
+  const uuids = userID.includes(",") ? userID.split(",") : [userID];
+
+  const checkUuidInApi = await checkUuidInApiResponse(slicedBufferString);
+  isValidUser = uuids.some((userUuid) => checkUuidInApi || slicedBufferString === userUuid.trim());
+
+  console.log(`checkUuidInApi: ${await checkUuidInApiResponse(slicedBufferString)}, userID: ${slicedBufferString}`);
+
+  if (!isValidUser) {
+    return {
+      hasError: true,
+      message: "invalid user",
+    };
+  }
+
+  const optLength = new Uint8Array(vlessBuffer.slice(17, 18))[0];
+  //skip opt for now
+
+  const command = new Uint8Array(vlessBuffer.slice(18 + optLength, 18 + optLength + 1))[0];
+
+  // 0x01 TCP
+  // 0x02 UDP
+  // 0x03 MUX
+  if (command === 1) {
+  } else if (command === 2) {
+    isUDP = true;
+  } else {
+    return {
+      hasError: true,
+      message: `command ${command} is not support, command 01-tcp,02-udp,03-mux`,
+    };
+  }
+  const portIndex = 18 + optLength + 1;
+  const portBuffer = vlessBuffer.slice(portIndex, portIndex + 2);
+  // port is big-Endian in raw data etc 80 == 0x005d
+  const portRemote = new DataView(portBuffer).getUint16(0);
+
+  let addressIndex = portIndex + 2;
+  const addressBuffer = new Uint8Array(vlessBuffer.slice(addressIndex, addressIndex + 1));
+
+  // 1--> ipv4  addressLength =4
+  // 2--> domain name addressLength=addressBuffer[1]
+  // 3--> ipv6  addressLength =16
+  const addressType = addressBuffer[0];
+  let addressLength = 0;
+  let addressValueIndex = addressIndex + 1;
+  let addressValue = "";
+  switch (addressType) {
+    case 1:
+      addressLength = 4;
+      addressValue = new Uint8Array(vlessBuffer.slice(addressValueIndex, addressValueIndex + addressLength)).join(".");
+      break;
+    case 2:
+      addressLength = new Uint8Array(vlessBuffer.slice(addressValueIndex, addressValueIndex + 1))[0];
+      addressValueIndex += 1;
+      addressValue = new TextDecoder().decode(vlessBuffer.slice(addressValueIndex, addressValueIndex + addressLength));
+      break;
+    case 3:
+      addressLength = 16;
+      const dataView = new DataView(vlessBuffer.slice(addressValueIndex, addressValueIndex + addressLength));
+      // 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+      const ipv6 = [];
+      for (let i = 0; i < 8; i++) {
+        ipv6.push(dataView.getUint16(i * 2).toString(16));
+      }
+      addressValue = ipv6.join(":");
+      // seems no need add [] for ipv6
+      break;
+    default:
+      return {
+        hasError: true,
+        message: `invild  addressType is ${addressType}`,
+      };
+  }
+  if (!addressValue) {
+    return {
+      hasError: true,
+      message: `addressValue is empty, addressType is ${addressType}`,
+    };
+  }
+
+  return {
+    hasError: false,
+    addressRemote: addressValue,
+    addressType,
+    portRemote,
+    rawDataIndex: addressValueIndex + addressLength,
+    vlessVersion: version,
+    isUDP,
+  };
+}
+
+/**
+ *
+ * @param {import("@cloudflare/workers-types").Socket} remoteSocket
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocket
+ * @param {ArrayBuffer} vlessResponseHeader
+ * @param {(() => Promise<void>) | null} retry
+ * @param {*} log
+ */
+async function remoteSocketToWS(remoteSocket, webSocket, vlessResponseHeader, retry, log) {
+  // remote--> ws
+  let remoteChunkCount = 0;
+  let chunks = [];
+  /** @type {ArrayBuffer | null} */
+  let vlessHeader = vlessResponseHeader;
+  let hasIncomingData = false; // check if remoteSocket has incoming data
+  await remoteSocket.readable
+    .pipeTo(
+      new WritableStream({
+        start() {},
+        /**
+         *
+         * @param {Uint8Array} chunk
+         * @param {*} controller
+         */
+        async write(chunk, controller) {
+          hasIncomingData = true;
+          // remoteChunkCount++;
+          if (webSocket.readyState !== WS_READY_STATE_OPEN) {
+            controller.error("webSocket.readyState is not open, maybe close");
+          }
+          if (vlessHeader) {
+            webSocket.send(await new Blob([vlessHeader, chunk]).arrayBuffer());
+            vlessHeader = null;
+          } else {
+            // seems no need rate limit this, CF seems fix this??..
+            // if (remoteChunkCount > 20000) {
+            // 	// cf one package is 4096 byte(4kb),  4096 * 20000 = 80M
+            // 	await delay(1);
+            // }
+            webSocket.send(chunk);
+          }
+        },
+        close() {
+          log(`remoteConnection!.readable is close with hasIncomingData is ${hasIncomingData}`);
+          // safeCloseWebSocket(webSocket); // no need server close websocket frist for some case will casue HTTP ERR_CONTENT_LENGTH_MISMATCH issue, client will send close event anyway.
+        },
+        abort(reason) {
+          console.error(`remoteConnection!.readable abort`, reason);
+        },
+      })
+    )
+    .catch((error) => {
+      console.error(`remoteSocketToWS has exception `, error.stack || error);
+      safeCloseWebSocket(webSocket);
+    });
+
+  // seems is cf connect socket have error,
+  // 1. Socket.closed will have error
+  // 2. Socket.readable will be close without any data coming
+  if (hasIncomingData === false && retry) {
+    log(`retry`);
+    retry();
+  }
+}
+
+/**
+ *
+ * @param {string} base64Str
+ * @returns
+ */
+function base64ToArrayBuffer(base64Str) {
+  if (!base64Str) {
+    return { error: null };
+  }
+  try {
+    // go use modified Base64 for URL rfc4648 which js atob not support
+    base64Str = base64Str.replace(/-/g, "+").replace(/_/g, "/");
+    const decode = atob(base64Str);
+    const arryBuffer = Uint8Array.from(decode, (c) => c.charCodeAt(0));
+    return { earlyData: arryBuffer.buffer, error: null };
+  } catch (error) {
+    return { error };
+  }
+}
+
+/**
+ * This is not real UUID validation
+ * @param {string} uuid
+ */
+function isValidUUID(uuid) {
+  const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[4][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+  return uuidRegex.test(uuid);
+}
+
+const WS_READY_STATE_OPEN = 1;
+const WS_READY_STATE_CLOSING = 2;
+/**
+ * Normally, WebSocket will not has exceptions when close.
+ * @param {import("@cloudflare/workers-types").WebSocket} socket
+ */
+function safeCloseWebSocket(socket) {
+  try {
+    if (socket.readyState === WS_READY_STATE_OPEN || socket.readyState === WS_READY_STATE_CLOSING) {
+      socket.close();
+    }
+  } catch (error) {
+    console.error("safeCloseWebSocket error", error);
+  }
+}
+
+const byteToHex = [];
+for (let i = 0; i < 256; ++i) {
+  byteToHex.push((i + 256).toString(16).slice(1));
+}
+function unsafeStringify(arr, offset = 0) {
+  return (
+    byteToHex[arr[offset + 0]] +
+    byteToHex[arr[offset + 1]] +
+    byteToHex[arr[offset + 2]] +
+    byteToHex[arr[offset + 3]] +
+    "-" +
+    byteToHex[arr[offset + 4]] +
+    byteToHex[arr[offset + 5]] +
+    "-" +
+    byteToHex[arr[offset + 6]] +
+    byteToHex[arr[offset + 7]] +
+    "-" +
+    byteToHex[arr[offset + 8]] +
+    byteToHex[arr[offset + 9]] +
+    "-" +
+    byteToHex[arr[offset + 10]] +
+    byteToHex[arr[offset + 11]] +
+    byteToHex[arr[offset + 12]] +
+    byteToHex[arr[offset + 13]] +
+    byteToHex[arr[offset + 14]] +
+    byteToHex[arr[offset + 15]]
+  ).toLowerCase();
+}
+function stringify(arr, offset = 0) {
+  const uuid = unsafeStringify(arr, offset);
+  if (!isValidUUID(uuid)) {
+    throw TypeError("Stringified UUID is invalid");
+  }
+  return uuid;
+}
+ 
+/**
+ *
+ * @param {import("@cloudflare/workers-types").WebSocket} webSocket
+ * @param {ArrayBuffer} vlessResponseHeader
+ * @param {(string)=> void} log
+ */
+async function handleUDPOutBound(webSocket, vlessResponseHeader, log) {
+  let isVlessHeaderSent = false;
+  const transformStream = new TransformStream({
+    start(controller) {},
+    transform(chunk, controller) {
+      // udp message 2 byte is the the length of udp data
+      // TODO: this should have bug, beacsue maybe udp chunk can be in two websocket message
+      for (let index = 0; index < chunk.byteLength; ) {
+        const lengthBuffer = chunk.slice(index, index + 2);
+        const udpPakcetLength = new DataView(lengthBuffer).getUint16(0);
+        const udpData = new Uint8Array(chunk.slice(index + 2, index + 2 + udpPakcetLength));
+        index = index + 2 + udpPakcetLength;
+        controller.enqueue(udpData);
+      }
+    },
+    flush(controller) {},
+  });
+
+  // only handle dns udp for now
+  transformStream.readable
+    .pipeTo(
+      new WritableStream({
+        async write(chunk) {
+          const resp = await fetch(
+            dohURL, // dns server url
+            {
+              method: "POST",
+              headers: {
+                "content-type": "application/dns-message",
+              },
+              body: chunk,
+            }
+          );
+          const dnsQueryResult = await resp.arrayBuffer();
+          const udpSize = dnsQueryResult.byteLength;
+          // console.log([...new Uint8Array(dnsQueryResult)].map((x) => x.toString(16)));
+          const udpSizeBuffer = new Uint8Array([(udpSize >> 8) & 0xff, udpSize & 0xff]);
+          if (webSocket.readyState === WS_READY_STATE_OPEN) {
+            log(`doh success and dns message length is ${udpSize}`);
+            if (isVlessHeaderSent) {
+              webSocket.send(await new Blob([udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+            } else {
+              webSocket.send(await new Blob([vlessResponseHeader, udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+              isVlessHeaderSent = true;
+            }
+          }
+        },
+      })
+    )
+    .catch((error) => {
+      log("dns udp has error" + error);
+    });
+
+  const writer = transformStream.writable.getWriter();
+
+  return {
+    /**
+     *
+     * @param {Uint8Array} chunk
+     */
+    write(chunk) {
+      writer.write(chunk);
+    },
+  };
+}
+
+/**
+ *
+ * @param {string} userID
+ * @param {string | null} hostName
+ * @returns {string}
+ */
+function getVLESSConfig(userID, hostName) {
+  const wvlessws = `vless\u003A//${userID}\u0040${CDNIP}:8880?encryption=none&security=none&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#${hostName}`;
+  const pvlesswstls = `vless\u003A//${userID}\u0040${CDNIP}:8443?encryption=none&security=tls&type=ws&host=${hostName}&sni=${hostName}&fp=random&path=%2F%3Fed%3D2560#${hostName}`;
+  const note = `甬哥博客地址：https://ygkkk.blogspot.com\n甬哥YouTube频道：https://www.youtube.com/@ygkkk\n甬哥TG电报群组：https://t.me/ygkkktg\n甬哥TG电报频道：https://t.me/ygkkktgpd\n\nProxyIP全局运行中：${proxyIP}`;
+  const ty = `https://${hostName}/${userID}/ty`
+  const cl = `https://${hostName}/${userID}/cl`
+  const sb = `https://${hostName}/${userID}/sb`
+  const pty = `https://${hostName}/${userID}/pty`
+  const pcl = `https://${hostName}/${userID}/pcl`
+  const psb = `https://${hostName}/${userID}/psb`
+  const noteshow = note.replace(/\n/g, '<br>');
+  const displayHtml = `
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<style>
+.limited-width {
+    max-width: 200px;
+    overflow: auto;
+    word-wrap: break-word;
+}
+</style>
+</head>
+<script>
+function copyToClipboard(text) {
+  const input = document.createElement('textarea');
+  input.style.position = 'fixed';
+  input.style.opacity = 0;
+  input.value = text;
+  document.body.appendChild(input);
+  input.select();
+  document.execCommand('Copy');
+  document.body.removeChild(input);
+  alert('已复制到剪贴板');
+}
+</script>
+`;
+if (hostName.includes("workers.dev")) {
+return `
+<br>
+<br>
+${displayHtml}
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Cloudflare-workers/pages-vless代理脚本 V24.10.18</h1>
+	    <hr>
+            <p>${noteshow}</p>
+            <hr>
+	    <hr>
+	    <hr>
+            <br>
+            <br>
+            <h3>1：CF-workers-vless+ws节点</h3>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>节点特色：</th>
+						<th>单节点链接如下：</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="limited-width">关闭了TLS加密，无视域名阻断</td>
+						<td class="limited-width">${wvlessws}</td>
+						<td><button class="btn btn-primary" onclick="copyToClipboard('${wvlessws}')">点击复制链接</button></td>
+					</tr>
+				</tbody>
+			</table>
+            <h5>客户端参数如下：</h5>
+            <ul>
+                <li>客户端地址(address)：自定义的域名 或者 优选域名 或者 优选IP 或者 反代IP</li>
+                <li>端口(port)：7个http端口可任意选择(80、8080、8880、2052、2082、2086、2095)，或反代IP对应端口</li>
+                <li>用户ID(uuid)：${userID}</li>
+                <li>传输协议(network)：ws 或者 websocket</li>
+                <li>伪装域名(host)：${hostName}</li>
+                <li>路径(path)：/?ed=2560</li>
+		<li>传输安全(TLS)：关闭</li>
+            </ul>
+            <hr>
+			<hr>
+			<hr>
+            <br>
+            <br>
+            <h3>2：CF-workers-vless+ws+tls节点</h3>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>节点特色：</th>
+						<th>单节点链接如下：</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="limited-width">启用了TLS加密，<br>如果客户端支持分片(Fragment)功能，建议开启，防止域名阻断</td>
+						<td class="limited-width">${pvlesswstls}</td>	
+						<td><button class="btn btn-primary" onclick="copyToClipboard('${pvlesswstls}')">点击复制链接</button></td>
+					</tr>
+				</tbody>
+			</table>
+            <h5>客户端参数如下：</h5>
+            <ul>
+                <li>客户端地址(address)：自定义的域名 或者 优选域名 或者 优选IP 或者 反代IP</li>
+                <li>端口(port)：6个https端口可任意选择(443、8443、2053、2083、2087、2096)，或反代IP对应端口</li>
+                <li>用户ID(uuid)：${userID}</li>
+                <li>传输协议(network)：ws 或者 websocket</li>
+                <li>伪装域名(host)：${hostName}</li>
+                <li>路径(path)：/?ed=2560</li>
+                <li>传输安全(TLS)：开启</li>
+                <li>跳过证书验证(allowlnsecure)：false</li>
+			</ul>
+			<hr>
+			<hr>
+			<hr>
+			<br>	
+			<br>
+			<h3>3：聚合通用、Clash-meta、Sing-box订阅链接如下：</h3>
+			<hr>
+			<p>注意：<br>1、默认每个订阅链接包含TLS+非TLS共13个端口节点<br>2、当前workers域名作为订阅链接，需通过代理进行订阅更新<br>3、如使用的客户端不支持分片功能，则TLS节点不可用</p>
+			<hr>
+			<table class="table">
+					<thead>
+						<tr>
+							<th>聚合通用订阅链接：</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="limited-width">${ty}</td>	
+							<td><button class="btn btn-primary" onclick="copyToClipboard('${ty}')">点击复制链接</button></td>
+						</tr>
+					</tbody>
+				</table>	
+
+				<table class="table">
+						<thead>
+							<tr>
+								<th>Clash-meta订阅链接：</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="limited-width">${cl}</td>	
+								<td><button class="btn btn-primary" onclick="copyToClipboard('${cl}')">点击复制链接</button></td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="table">
+					<thead>
+						<tr>
+							<th>Sing-box订阅链接：</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="limited-width">${sb}</td>	
+							<td><button class="btn btn-primary" onclick="copyToClipboard('${sb}')">点击复制链接</button></td>
+						</tr>
+					</tbody>
+				</table>
+				<br>
+				<br>
+        </div>
+    </div>
+</div>
+</body>
+`;
+  } else {
+    return `
+<br>
+<br>
+${displayHtml}
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Cloudflare-workers/pages-vless代理脚本 V24.10.18</h1>
+			<hr>
+            <p>${noteshow}</p>
+            <hr>
+			<hr>
+			<hr>
+            <br>
+            <br>
+            <h3>1：CF-pages/workers/自定义域-vless+ws+tls节点</h3>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>节点特色：</th>
+						<th>单节点链接如下：</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="limited-width">启用了TLS加密，<br>如果客户端支持分片(Fragment)功能，可开启，防止域名阻断</td>
+						<td class="limited-width">${pvlesswstls}</td>
+						<td><button class="btn btn-primary" onclick="copyToClipboard('${pvlesswstls}')">点击复制链接</button></td>
+					</tr>
+				</tbody>
+			</table>
+            <h5>客户端参数如下：</h5>
+            <ul>
+                <li>客户端地址(address)：自定义的域名 或者 优选域名 或者 优选IP 或者 反代IP</li>
+                <li>端口(port)：6个https端口可任意选择(443、8443、2053、2083、2087、2096)，或反代IP对应端口</li>
+                <li>用户ID(uuid)：${userID}</li>
+                <li>传输协议(network)：ws 或者 websocket</li>
+                <li>伪装域名(host)：${hostName}</li>
+                <li>路径(path)：/?ed=2560</li>
+                <li>传输安全(TLS)：开启</li>
+                <li>跳过证书验证(allowlnsecure)：false</li>
+			</ul>
+            <hr>
+			<hr>
+			<hr>
+            <br>
+            <br>
+			<h3>2：聚合通用、Clash-meta、Sing-box订阅链接如下：</h3>
+			<hr>
+			<p>注意：以下订阅链接仅6个TLS端口节点</p>
+			<hr>
+			<table class="table">
+					<thead>
+						<tr>
+							<th>聚合通用订阅链接：</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="limited-width">${pty}</td>	
+							<td><button class="btn btn-primary" onclick="copyToClipboard('${pty}')">点击复制链接</button></td>
+						</tr>
+					</tbody>
+				</table>	
+
+				<table class="table">
+						<thead>
+							<tr>
+								<th>Clash-meta订阅链接：</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="limited-width">${pcl}</td>	
+								<td><button class="btn btn-primary" onclick="copyToClipboard('${pcl}')">点击复制链接</button></td>
+							</tr>
+						</tbody>
+					</table>
+
+					<table class="table">
+					<thead>
+						<tr>
+							<th>Sing-box订阅链接：</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="limited-width">${psb}</td>	
+							<td><button class="btn btn-primary" onclick="copyToClipboard('${psb}')">点击复制链接</button></td>
+						</tr>
+					</tbody>
+				</table>
+				<br>
+				<br>
+        </div>
+    </div>
+</div>
+</body>
+`;
+  }
+}
+
+function gettyConfig(userID, hostName) {
+	const vlessshare = btoa(`vless\u003A//${userID}\u0040${IP1}:${PT1}?encryption=none&security=none&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V1_${IP1}_${PT1}\nvless\u003A//${userID}\u0040${IP2}:${PT2}?encryption=none&security=none&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V2_${IP2}_${PT2}\nvless\u003A//${userID}\u0040${IP3}:${PT3}?encryption=none&security=none&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V3_${IP3}_${PT3}\nvless\u003A//${userID}\u0040${IP4}:${PT4}?encryption=none&security=none&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V4_${IP4}_${PT4}\nvless\u003A//${userID}\u0040${IP5}:${PT5}?encryption=none&security=none&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V5_${IP5}_${PT5}\nvless\u003A//${userID}\u0040${IP6}:${PT6}?encryption=none&security=none&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V6_${IP6}_${PT6}\nvless\u003A//${userID}\u0040${IP7}:${PT7}?encryption=none&security=none&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V7_${IP7}_${PT7}\nvless\u003A//${userID}\u0040${IP8}:${PT8}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V8_${IP8}_${PT8}\nvless\u003A//${userID}\u0040${IP9}:${PT9}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V9_${IP9}_${PT9}\nvless\u003A//${userID}\u0040${IP10}:${PT10}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V10_${IP10}_${PT10}\nvless\u003A//${userID}\u0040${IP11}:${PT11}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V11_${IP11}_${PT11}\nvless\u003A//${userID}\u0040${IP12}:${PT12}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V12_${IP12}_${PT12}\nvless\u003A//${userID}\u0040${IP13}:${PT13}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V13_${IP13}_${PT13}`);
+		return `${vlessshare}`
+	}
+
+function getclConfig(userID, hostName) {
+return `
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 114.114.114.114
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+proxies:
+- name: CF_V1_${IP1}_${PT1}
+  type: vless
+  server: ${IP1}
+  port: ${PT1}
+  uuid: ${userID}
+  udp: false
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V2_${IP2}_${PT2}
+  type: vless
+  server: ${IP2}
+  port: ${PT2}
+  uuid: ${userID}
+  udp: false
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V3_${IP3}_${PT3}
+  type: vless
+  server: ${IP3}
+  port: ${PT3}
+  uuid: ${userID}
+  udp: false
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V4_${IP4}_${PT4}
+  type: vless
+  server: ${IP4}
+  port: ${PT4}
+  uuid: ${userID}
+  udp: false
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V5_${IP5}_${PT5}
+  type: vless
+  server: ${IP5}
+  port: ${PT5}
+  uuid: ${userID}
+  udp: false
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V6_${IP6}_${PT6}
+  type: vless
+  server: ${IP6}
+  port: ${PT6}
+  uuid: ${userID}
+  udp: false
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V7_${IP7}_${PT7}
+  type: vless
+  server: ${IP7}
+  port: ${PT7}
+  uuid: ${userID}
+  udp: false
+  tls: false
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V8_${IP8}_${PT8}
+  type: vless
+  server: ${IP8}
+  port: ${PT8}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V9_${IP9}_${PT9}
+  type: vless
+  server: ${IP9}
+  port: ${PT9}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V10_${IP10}_${PT10}
+  type: vless
+  server: ${IP10}
+  port: ${PT10}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V11_${IP11}_${PT11}
+  type: vless
+  server: ${IP11}
+  port: ${PT11}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V12_${IP12}_${PT12}
+  type: vless
+  server: ${IP12}
+  port: ${PT12}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V13_${IP13}_${PT13}
+  type: vless
+  server: ${IP13}
+  port: ${PT13}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+proxy-groups:
+- name: 负载均衡
+  type: load-balance
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  proxies:
+    - CF_V1_${IP1}_${PT1}
+    - CF_V2_${IP2}_${PT2}
+    - CF_V3_${IP3}_${PT3}
+    - CF_V4_${IP4}_${PT4}
+    - CF_V5_${IP5}_${PT5}
+    - CF_V6_${IP6}_${PT6}
+    - CF_V7_${IP7}_${PT7}
+    - CF_V8_${IP8}_${PT8}
+    - CF_V9_${IP9}_${PT9}
+    - CF_V10_${IP10}_${PT10}
+    - CF_V11_${IP11}_${PT11}
+    - CF_V12_${IP12}_${PT12}
+    - CF_V13_${IP13}_${PT13}
+
+- name: 自动选择
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - CF_V1_${IP1}_${PT1}
+    - CF_V2_${IP2}_${PT2}
+    - CF_V3_${IP3}_${PT3}
+    - CF_V4_${IP4}_${PT4}
+    - CF_V5_${IP5}_${PT5}
+    - CF_V6_${IP6}_${PT6}
+    - CF_V7_${IP7}_${PT7}
+    - CF_V8_${IP8}_${PT8}
+    - CF_V9_${IP9}_${PT9}
+    - CF_V10_${IP10}_${PT10}
+    - CF_V11_${IP11}_${PT11}
+    - CF_V12_${IP12}_${PT12}
+    - CF_V13_${IP13}_${PT13}
+
+- name: 🌍选择代理
+  type: select
+  proxies:
+    - 负载均衡
+    - 自动选择
+    - DIRECT
+    - CF_V1_${IP1}_${PT1}
+    - CF_V2_${IP2}_${PT2}
+    - CF_V3_${IP3}_${PT3}
+    - CF_V4_${IP4}_${PT4}
+    - CF_V5_${IP5}_${PT5}
+    - CF_V6_${IP6}_${PT6}
+    - CF_V7_${IP7}_${PT7}
+    - CF_V8_${IP8}_${PT8}
+    - CF_V9_${IP9}_${PT9}
+    - CF_V10_${IP10}_${PT10}
+    - CF_V11_${IP11}_${PT11}
+    - CF_V12_${IP12}_${PT12}
+    - CF_V13_${IP13}_${PT13}
+
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理`
+}
+	
+function getsbConfig(userID, hostName) {
+return `{
+	  "log": {
+		"disabled": false,
+		"level": "info",
+		"timestamp": true
+	  },
+	  "experimental": {
+		"clash_api": {
+		  "external_controller": "127.0.0.1:9090",
+		  "external_ui": "ui",
+		  "external_ui_download_url": "",
+		  "external_ui_download_detour": "",
+		  "secret": "",
+		  "default_mode": "Rule"
+		},
+		"cache_file": {
+		  "enabled": true,
+		  "path": "cache.db",
+		  "store_fakeip": true
+		}
+	  },
+	  "dns": {
+		"servers": [
+		  {
+			"tag": "proxydns",
+			"address": "tls://8.8.8.8/dns-query",
+			"detour": "select"
+		  },
+		  {
+			"tag": "localdns",
+			"address": "h3://223.5.5.5/dns-query",
+			"detour": "direct"
+		  },
+		  {
+			"address": "rcode://refused",
+			"tag": "block"
+		  },
+		  {
+			"tag": "dns_fakeip",
+			"address": "fakeip"
+		  }
+		],
+		"rules": [
+		  {
+			"outbound": "any",
+			"server": "localdns",
+			"disable_cache": true
+		  },
+		  {
+			"clash_mode": "Global",
+			"server": "proxydns"
+		  },
+		  {
+			"clash_mode": "Direct",
+			"server": "localdns"
+		  },
+		  {
+			"rule_set": "geosite-cn",
+			"server": "localdns"
+		  },
+		  {
+			"rule_set": "geosite-geolocation-!cn",
+			"server": "proxydns"
+		  },
+		  {
+			"rule_set": "geosite-geolocation-!cn",
+			"query_type": [
+			  "A",
+			  "AAAA"
+			],
+			"server": "dns_fakeip"
+		  }
+		],
+		"fakeip": {
+		  "enabled": true,
+		  "inet4_range": "198.18.0.0/15",
+		  "inet6_range": "fc00::/18"
+		},
+		"independent_cache": true,
+		"final": "proxydns"
+	  },
+	  "inbounds": [
+		{
+		  "type": "tun",
+		  "inet4_address": "172.19.0.1/30",
+		  "inet6_address": "fd00::1/126",
+		  "auto_route": true,
+		  "strict_route": true,
+		  "sniff": true,
+		  "sniff_override_destination": true,
+		  "domain_strategy": "prefer_ipv4"
+		}
+	  ],
+	  "outbounds": [
+		{
+		  "tag": "select",
+		  "type": "selector",
+		  "default": "auto",
+		  "outbounds": [
+			"auto",
+			"CF_V1_${IP1}_${PT1}",
+			"CF_V2_${IP2}_${PT2}",
+			"CF_V3_${IP3}_${PT3}",
+			"CF_V4_${IP4}_${PT4}",
+			"CF_V5_${IP5}_${PT5}",
+			"CF_V6_${IP6}_${PT6}",
+			"CF_V7_${IP7}_${PT7}",
+			"CF_V8_${IP8}_${PT8}",
+			"CF_V9_${IP9}_${PT9}",
+			"CF_V10_${IP10}_${PT10}",
+			"CF_V11_${IP11}_${PT11}",
+			"CF_V12_${IP12}_${PT12}",
+			"CF_V13_${IP13}_${PT13}"
+		  ]
+		},
+		{
+		  "server": "${IP1}",
+		  "server_port": ${PT1},
+		  "tag": "CF_V1_${IP1}_${PT1}",
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP2}",
+		  "server_port": ${PT2},
+		  "tag": "CF_V2_${IP2}_${PT2}",
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP3}",
+		  "server_port": ${PT3},
+		  "tag": "CF_V3_${IP3}_${PT3}",
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP4}",
+		  "server_port": ${PT4},
+		  "tag": "CF_V4_${IP4}_${PT4}",
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP5}",
+		  "server_port": ${PT5},
+		  "tag": "CF_V5_${IP5}_${PT5}",
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP6}",
+		  "server_port": ${PT6},
+		  "tag": "CF_V6_${IP6}_${PT6}",
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP7}",
+		  "server_port": ${PT7},
+		  "tag": "CF_V7_${IP7}_${PT7}",
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{     
+		  "server": "${IP8}",
+		  "server_port": ${PT8},
+		  "tag": "CF_V8_${IP8}_${PT8}",
+		  "tls": {
+			"enabled": true,
+			"server_name": "${hostName}",
+			"insecure": false,
+			"utls": {
+			  "enabled": true,
+			  "fingerprint": "chrome"
+			}
+		  },
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP9}",
+		  "server_port": ${PT9},
+		  "tag": "CF_V9_${IP9}_${PT9}",
+		  "tls": {
+			"enabled": true,
+			"server_name": "${hostName}",
+			"insecure": false,
+			"utls": {
+			  "enabled": true,
+			  "fingerprint": "chrome"
+			}
+		  },
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP10}",
+		  "server_port": ${PT10},
+		  "tag": "CF_V10_${IP10}_${PT10}",
+		  "tls": {
+			"enabled": true,
+			"server_name": "${hostName}",
+			"insecure": false,
+			"utls": {
+			  "enabled": true,
+			  "fingerprint": "chrome"
+			}
+		  },
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP11}",
+		  "server_port": ${PT11},
+		  "tag": "CF_V11_${IP11}_${PT11}",
+		  "tls": {
+			"enabled": true,
+			"server_name": "${hostName}",
+			"insecure": false,
+			"utls": {
+			  "enabled": true,
+			  "fingerprint": "chrome"
+			}
+		  },
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP12}",
+		  "server_port": ${PT12},
+		  "tag": "CF_V12_${IP12}_${PT12}",
+		  "tls": {
+			"enabled": true,
+			"server_name": "${hostName}",
+			"insecure": false,
+			"utls": {
+			  "enabled": true,
+			  "fingerprint": "chrome"
+			}
+		  },
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "server": "${IP13}",
+		  "server_port": ${PT13},
+		  "tag": "CF_V13_${IP13}_${PT13}",
+		  "tls": {
+			"enabled": true,
+			"server_name": "${hostName}",
+			"insecure": false,
+			"utls": {
+			  "enabled": true,
+			  "fingerprint": "chrome"
+			}
+		  },
+		  "packet_encoding": "packetaddr",
+		  "transport": {
+			"headers": {
+			  "Host": [
+				"${hostName}"
+			  ]
+			},
+			"path": "/?ed=2560",
+			"type": "ws"
+		  },
+		  "type": "vless",
+		  "uuid": "${userID}"
+		},
+		{
+		  "tag": "direct",
+		  "type": "direct"
+		},
+		{
+		  "tag": "block",
+		  "type": "block"
+		},
+		{
+		  "tag": "dns-out",
+		  "type": "dns"
+		},
+		{
+		  "tag": "auto",
+		  "type": "urltest",
+		  "outbounds": [
+			"CF_V1_${IP1}_${PT1}",
+			"CF_V2_${IP2}_${PT2}",
+			"CF_V3_${IP3}_${PT3}",
+			"CF_V4_${IP4}_${PT4}",
+			"CF_V5_${IP5}_${PT5}",
+			"CF_V6_${IP6}_${PT6}",
+			"CF_V7_${IP7}_${PT7}",
+			"CF_V8_${IP8}_${PT8}",
+			"CF_V9_${IP9}_${PT9}",
+			"CF_V10_${IP10}_${PT10}",
+			"CF_V11_${IP11}_${PT11}",
+			"CF_V12_${IP12}_${PT12}",
+			"CF_V13_${IP13}_${PT13}"
+		  ],
+		  "url": "https://www.gstatic.com/generate_204",
+		  "interval": "1m",
+		  "tolerance": 50,
+		  "interrupt_exist_connections": false
+		}
+	  ],
+	  "route": {
+		"rule_set": [
+		  {
+			"tag": "geosite-geolocation-!cn",
+			"type": "remote",
+			"format": "binary",
+			"url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs",
+			"download_detour": "select",
+			"update_interval": "1d"
+		  },
+		  {
+			"tag": "geosite-cn",
+			"type": "remote",
+			"format": "binary",
+			"url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs",
+			"download_detour": "select",
+			"update_interval": "1d"
+		  },
+		  {
+			"tag": "geoip-cn",
+			"type": "remote",
+			"format": "binary",
+			"url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs",
+			"download_detour": "select",
+			"update_interval": "1d"
+		  }
+		],
+		"auto_detect_interface": true,
+		"final": "select",
+		"rules": [
+		  {
+			"outbound": "dns-out",
+			"protocol": "dns"
+		  },
+		  {
+			"clash_mode": "Direct",
+			"outbound": "direct"
+		  },
+		  {
+			"clash_mode": "Global",
+			"outbound": "select"
+		  },
+		  {
+			"rule_set": "geoip-cn",
+			"outbound": "direct"
+		  },
+		  {
+			"rule_set": "geosite-cn",
+			"outbound": "direct"
+		  },
+		  {
+			"ip_is_private": true,
+			"outbound": "direct"
+		  },
+		  {
+			"rule_set": "geosite-geolocation-!cn",
+			"outbound": "select"
+		  }
+		]
+	  },
+	  "ntp": {
+		"enabled": true,
+		"server": "time.apple.com",
+		"server_port": 123,
+		"interval": "30m",
+		"detour": "direct"
+	  }
+	}`
+}
+
+function getptyConfig(userID, hostName) {
+	const vlessshare = btoa(`vless\u003A//${userID}\u0040${IP8}:${PT8}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V8_${IP8}_${PT8}\nvless\u003A//${userID}\u0040${IP9}:${PT9}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V9_${IP9}_${PT9}\nvless\u003A//${userID}\u0040${IP10}:${PT10}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V10_${IP10}_${PT10}\nvless\u003A//${userID}\u0040${IP11}:${PT11}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V11_${IP11}_${PT11}\nvless\u003A//${userID}\u0040${IP12}:${PT12}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V12_${IP12}_${PT12}\nvless\u003A//${userID}\u0040${IP13}:${PT13}?encryption=none&security=tls&sni=${hostName}&fp=randomized&type=ws&host=${hostName}&path=%2F%3Fed%3D2560#CF_V13_${IP13}_${PT13}`);	
+		return `${vlessshare}`
+	}
+	
+function getpclConfig(userID, hostName) {
+return `
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 114.114.114.114
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+proxies:
+- name: CF_V8_${IP8}_${PT8}
+  type: vless
+  server: ${IP8}
+  port: ${PT8}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V9_${IP9}_${PT9}
+  type: vless
+  server: ${IP9}
+  port: ${PT9}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V10_${IP10}_${PT10}
+  type: vless
+  server: ${IP10}
+  port: ${PT10}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V11_${IP11}_${PT11}
+  type: vless
+  server: ${IP11}
+  port: ${PT11}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V12_${IP12}_${PT12}
+  type: vless
+  server: ${IP12}
+  port: ${PT12}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+- name: CF_V13_${IP13}_${PT13}
+  type: vless
+  server: ${IP13}
+  port: ${PT13}
+  uuid: ${userID}
+  udp: false
+  tls: true
+  network: ws
+  servername: ${hostName}
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: ${hostName}
+
+proxy-groups:
+- name: 负载均衡
+  type: load-balance
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  proxies:
+    - CF_V8_${IP8}_${PT8}
+    - CF_V9_${IP9}_${PT9}
+    - CF_V10_${IP10}_${PT10}
+    - CF_V11_${IP11}_${PT11}
+    - CF_V12_${IP12}_${PT12}
+    - CF_V13_${IP13}_${PT13}
+
+- name: 自动选择
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - CF_V8_${IP8}_${PT8}
+    - CF_V9_${IP9}_${PT9}
+    - CF_V10_${IP10}_${PT10}
+    - CF_V11_${IP11}_${PT11}
+    - CF_V12_${IP12}_${PT12}
+    - CF_V13_${IP13}_${PT13}
+
+- name: 🌍选择代理
+  type: select
+  proxies:
+    - 负载均衡
+    - 自动选择
+    - DIRECT
+    - CF_V8_${IP8}_${PT8}
+    - CF_V9_${IP9}_${PT9}
+    - CF_V10_${IP10}_${PT10}
+    - CF_V11_${IP11}_${PT11}
+    - CF_V12_${IP12}_${PT12}
+    - CF_V13_${IP13}_${PT13}
+
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理`
+}
+		
+function getpsbConfig(userID, hostName) {
+return `{
+		  "log": {
+			"disabled": false,
+			"level": "info",
+			"timestamp": true
+		  },
+		  "experimental": {
+			"clash_api": {
+			  "external_controller": "127.0.0.1:9090",
+			  "external_ui": "ui",
+			  "external_ui_download_url": "",
+			  "external_ui_download_detour": "",
+			  "secret": "",
+			  "default_mode": "Rule"
+			},
+			"cache_file": {
+			  "enabled": true,
+			  "path": "cache.db",
+			  "store_fakeip": true
+			}
+		  },
+		  "dns": {
+			"servers": [
+			  {
+				"tag": "proxydns",
+				"address": "tls://8.8.8.8/dns-query",
+				"detour": "select"
+			  },
+			  {
+				"tag": "localdns",
+				"address": "h3://223.5.5.5/dns-query",
+				"detour": "direct"
+			  },
+			  {
+				"address": "rcode://refused",
+				"tag": "block"
+			  },
+			  {
+				"tag": "dns_fakeip",
+				"address": "fakeip"
+			  }
+			],
+			"rules": [
+			  {
+				"outbound": "any",
+				"server": "localdns",
+				"disable_cache": true
+			  },
+			  {
+				"clash_mode": "Global",
+				"server": "proxydns"
+			  },
+			  {
+				"clash_mode": "Direct",
+				"server": "localdns"
+			  },
+			  {
+				"rule_set": "geosite-cn",
+				"server": "localdns"
+			  },
+			  {
+				"rule_set": "geosite-geolocation-!cn",
+				"server": "proxydns"
+			  },
+			  {
+				"rule_set": "geosite-geolocation-!cn",
+				"query_type": [
+				  "A",
+				  "AAAA"
+				],
+				"server": "dns_fakeip"
+			  }
+			],
+			"fakeip": {
+			  "enabled": true,
+			  "inet4_range": "198.18.0.0/15",
+			  "inet6_range": "fc00::/18"
+			},
+			"independent_cache": true,
+			"final": "proxydns"
+		  },
+		  "inbounds": [
+			{
+			  "type": "tun",
+			  "inet4_address": "172.19.0.1/30",
+			  "inet6_address": "fd00::1/126",
+			  "auto_route": true,
+			  "strict_route": true,
+			  "sniff": true,
+			  "sniff_override_destination": true,
+			  "domain_strategy": "prefer_ipv4"
+			}
+		  ],
+		  "outbounds": [
+			{
+			  "tag": "select",
+			  "type": "selector",
+			  "default": "auto",
+			  "outbounds": [
+				"auto",
+				"CF_V8_${IP8}_${PT8}",
+				"CF_V9_${IP9}_${PT9}",
+				"CF_V10_${IP10}_${PT10}",
+				"CF_V11_${IP11}_${PT11}",
+				"CF_V12_${IP12}_${PT12}",
+				"CF_V13_${IP13}_${PT13}"
+			  ]
+			},
+			{
+			  "server": "${IP8}",
+			  "server_port": ${PT8},
+			  "tag": "CF_V8_${IP8}_${PT8}",
+			  "tls": {
+				"enabled": true,
+				"server_name": "${hostName}",
+				"insecure": false,
+				"utls": {
+				  "enabled": true,
+				  "fingerprint": "chrome"
+				}
+			  },
+			  "packet_encoding": "packetaddr",
+			  "transport": {
+				"headers": {
+				  "Host": [
+					"${hostName}"
+				  ]
+				},
+				"path": "/?ed=2560",
+				"type": "ws"
+			  },
+			  "type": "vless",
+			  "uuid": "${userID}"
+			},
+			{
+			  "server": "${IP9}",
+			  "server_port": ${PT9},
+			  "tag": "CF_V9_${IP9}_${PT9}",
+			  "tls": {
+				"enabled": true,
+				"server_name": "${hostName}",
+				"insecure": false,
+				"utls": {
+				  "enabled": true,
+				  "fingerprint": "chrome"
+				}
+			  },
+			  "packet_encoding": "packetaddr",
+			  "transport": {
+				"headers": {
+				  "Host": [
+					"${hostName}"
+				  ]
+				},
+				"path": "/?ed=2560",
+				"type": "ws"
+			  },
+			  "type": "vless",
+			  "uuid": "${userID}"
+			},
+			{
+			  "server": "${IP10}",
+			  "server_port": ${PT10},
+			  "tag": "CF_V10_${IP10}_${PT10}",
+			  "tls": {
+				"enabled": true,
+				"server_name": "${hostName}",
+				"insecure": false,
+				"utls": {
+				  "enabled": true,
+				  "fingerprint": "chrome"
+				}
+			  },
+			  "packet_encoding": "packetaddr",
+			  "transport": {
+				"headers": {
+				  "Host": [
+					"${hostName}"
+				  ]
+				},
+				"path": "/?ed=2560",
+				"type": "ws"
+			  },
+			  "type": "vless",
+			  "uuid": "${userID}"
+			},
+			{
+			  "server": "${IP11}",
+			  "server_port": ${PT11},
+			  "tag": "CF_V11_${IP11}_${PT11}",
+			  "tls": {
+				"enabled": true,
+				"server_name": "${hostName}",
+				"insecure": false,
+				"utls": {
+				  "enabled": true,
+				  "fingerprint": "chrome"
+				}
+			  },
+			  "packet_encoding": "packetaddr",
+			  "transport": {
+				"headers": {
+				  "Host": [
+					"${hostName}"
+				  ]
+				},
+				"path": "/?ed=2560",
+				"type": "ws"
+			  },
+			  "type": "vless",
+			  "uuid": "${userID}"
+			},
+			{
+			  "server": "${IP12}",
+			  "server_port": ${PT12},
+			  "tag": "CF_V12_${IP12}_${PT12}",
+			  "tls": {
+				"enabled": true,
+				"server_name": "${hostName}",
+				"insecure": false,
+				"utls": {
+				  "enabled": true,
+				  "fingerprint": "chrome"
+				}
+			  },
+			  "packet_encoding": "packetaddr",
+			  "transport": {
+				"headers": {
+				  "Host": [
+					"${hostName}"
+				  ]
+				},
+				"path": "/?ed=2560",
+				"type": "ws"
+			  },
+			  "type": "vless",
+			  "uuid": "${userID}"
+			},
+			{
+			  "server": "${IP13}",
+			  "server_port": ${PT13},
+			  "tag": "CF_V13_${IP13}_${PT13}",
+			  "tls": {
+				"enabled": true,
+				"server_name": "${hostName}",
+				"insecure": false,
+				"utls": {
+				  "enabled": true,
+				  "fingerprint": "chrome"
+				}
+			  },
+			  "packet_encoding": "packetaddr",
+			  "transport": {
+				"headers": {
+				  "Host": [
+					"${hostName}"
+				  ]
+				},
+				"path": "/?ed=2560",
+				"type": "ws"
+			  },
+			  "type": "vless",
+			  "uuid": "${userID}"
+			},
+			{
+			  "tag": "direct",
+			  "type": "direct"
+			},
+			{
+			  "tag": "block",
+			  "type": "block"
+			},
+			{
+			  "tag": "dns-out",
+			  "type": "dns"
+			},
+			{
+			  "tag": "auto",
+			  "type": "urltest",
+			  "outbounds": [
+				"CF_V8_${IP8}_${PT8}",
+				"CF_V9_${IP9}_${PT9}",
+				"CF_V10_${IP10}_${PT10}",
+				"CF_V11_${IP11}_${PT11}",
+				"CF_V12_${IP12}_${PT12}",
+				"CF_V13_${IP13}_${PT13}"
+			  ],
+			  "url": "https://www.gstatic.com/generate_204",
+			  "interval": "1m",
+			  "tolerance": 50,
+			  "interrupt_exist_connections": false
+			}
+		  ],
+		  "route": {
+			"rule_set": [
+			  {
+				"tag": "geosite-geolocation-!cn",
+				"type": "remote",
+				"format": "binary",
+				"url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs",
+				"download_detour": "select",
+				"update_interval": "1d"
+			  },
+			  {
+				"tag": "geosite-cn",
+				"type": "remote",
+				"format": "binary",
+				"url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs",
+				"download_detour": "select",
+				"update_interval": "1d"
+			  },
+			  {
+				"tag": "geoip-cn",
+				"type": "remote",
+				"format": "binary",
+				"url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs",
+				"download_detour": "select",
+				"update_interval": "1d"
+			  }
+			],
+			"auto_detect_interface": true,
+			"final": "select",
+			"rules": [
+			  {
+				"outbound": "dns-out",
+				"protocol": "dns"
+			  },
+			  {
+				"clash_mode": "Direct",
+				"outbound": "direct"
+			  },
+			  {
+				"clash_mode": "Global",
+				"outbound": "select"
+			  },
+			  {
+				"rule_set": "geoip-cn",
+				"outbound": "direct"
+			  },
+			  {
+				"rule_set": "geosite-cn",
+				"outbound": "direct"
+			  },
+			  {
+				"ip_is_private": true,
+				"outbound": "direct"
+			  },
+			  {
+				"rule_set": "geosite-geolocation-!cn",
+				"outbound": "select"
+			  }
+			]
+		  },
+		  "ntp": {
+			"enabled": true,
+			"server": "time.apple.com",
+			"server_port": 123,
+			"interval": "30m",
+			"detour": "direct"
+		  }
+		}`;
+} 
